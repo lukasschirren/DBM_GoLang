@@ -1,0 +1,336 @@
+Investment ID;country 1;country 2;country 3
+2;Portugal;NULL;NULL
+4;Portugal;NULL;NULL
+474;Portugal;NULL;NULL
+941;Portugal;NULL;NULL
+18;Portugal;Spain;NULL
+496;Portugal;Spain;NULL
+498;Portugal;Spain;NULL
+499;Portugal;Spain;NULL
+500;Portugal;Spain;NULL
+31;Spain;NULL;NULL
+569;Spain;NULL;NULL
+570;Spain;NULL;NULL
+38;Spain;France;NULL
+55;France;Italy;NULL
+60;France;Belgium;NULL
+62;France;Great Britain;NULL
+614;Austria;Italy;NULL
+70;Italy;Montenegro;NULL
+624;Italy;Montenegro;NULL
+1503;Italy;Montenegro;NULL
+635;Italy;Tunisia;NULL
+642;Switzerland;Italy;NULL
+90;Italy;NULL;NULL
+1041;Italy;NULL;NULL
+311;Czech Republic;NULL;NULL
+313;Czech Republic;NULL;NULL
+315;Czech Republic;NULL;NULL
+141;Denmark;Germany;NULL
+142;Norway;Germany;NULL
+406;Norway;Germany;NULL
+144;Denmark;Germany;NULL
+650;Belgium;Germany;Luxembourg
+219;Germany;Austria;NULL
+689;Germany;Austria;NULL
+696;Slovakia;Hungary;NULL
+697;Slovakia;Hungary;NULL
+1500;Slovakia;Hungary;NULL
+1501;Slovakia;Hungary;NULL
+386;Estonia;Latvia;NULL
+735;Estonia;Latvia;NULL
+1062;Estonia;Latvia;NULL
+427;Denmark;Netherlands;NULL
+443;Belgium;Great Britain;NULL
+449;Great Britain;Great Britain;NULL
+450;Great Britain;Great Britain;NULL
+752;Belgium;NULL;NULL
+452;United Kingdom;;NULL
+458;United Kingdom;;NULL
+462;Ireland;Northern Ireland;NULL
+463;Ireland;Northern Ireland;NULL
+896;Ireland;Northern Ireland;NULL
+897;Ireland;Northern Ireland;NULL
+779;Portugal;NULL;NULL
+780;Portugal;NULL;NULL
+146;Belgium;Germany;NULL
+139;Poland;Germany;NULL
+796;Poland;Germany;NULL
+1492;Poland;NULL;NULL
+1493;Germany;NULL;NULL
+801;Finland;NULL;NULL
+1488;Netherlands;NULL;NULL
+1490;Netherlands;NULL;NULL
+1539;Netherlands;NULL;NULL
+1540;Netherlands;NULL;NULL
+1560;Netherlands;NULL;NULL
+810;France;Ireland;NULL
+424;United Kingdom;norway;NULL
+396;Finland;Sweden;NULL
+145;Netherlands;Germany;NULL
+1625;Belgium;NULL;NULL
+934;Belgium;Great Britain;NULL
+373;Poland;Lithuania;NULL
+378;Lithuania;Sweden;NULL
+385;Lithuania;Sweden;NULL
+733;Lithuania;Sweden;NULL
+403;Sweden;NULL;NULL
+86;Italy;NULL;NULL
+96;Italy;NULL;NULL
+645;Italy;NULL;NULL
+665;Germany;NULL;NULL
+661;Germany;NULL;NULL
+176;Germany;NULL;NULL
+680;Germany;NULL;NULL
+179;Germany;NULL;NULL
+188;Germany;NULL;NULL
+273;Romania;Bulgaria;NULL
+275;Romania;Bulgaria;NULL
+715;Romania;Bulgaria;NULL
+800;Romania;Bulgaria;NULL
+256;Bulgaria;Greece;NULL
+257;Bulgaria;Greece;NULL
+258;Bulgaria;Greece;NULL
+262;Bulgaria;Greece;NULL
+238;Romania;Serbia;NULL
+269;Romania;Serbia;Hungary
+270;Romania;Serbia;Hungary
+701;Romania;Serbia;NULL
+705;Romania;Serbia;NULL
+616;Slovenia;Italy;NULL
+1616;Slovenia;Italy;NULL
+987;France;Great Britain;NULL
+149;Germany;NULL;NULL
+157;Germany;NULL;NULL
+677;Germany;NULL;NULL
+685;Germany;NULL;NULL
+998;Denmark;Great Britain;NULL
+382;Lithuania;NULL;NULL
+1004;Estonia;NULL;NULL
+1010;Lithuania;NULL;NULL
+1011;Lithuania;NULL;NULL
+1012;Lithuania;NULL;NULL
+1013;Lithuania;NULL;NULL
+1034;Lithuania;NULL;NULL
+1118;Lithuania;Estonia;Latvia
+1564;Lithuania;NULL;NULL
+1565;Lithuania;NULL;NULL
+1566;Lithuania;NULL;NULL
+1567;Lithuania;NULL;NULL
+1568;Lithuania;NULL;NULL
+1569;Lithuania;NULL;NULL
+1570;Lithuania;NULL;NULL
+1571;Lithuania;NULL;NULL
+1572;Lithuania;Estonia;Latvia
+1633;Lithuania;NULL;NULL
+1634;Lithuania;NULL;NULL
+1635;Lithuania;NULL;NULL
+1487;United Kingdom;France;NULL
+1281;France;Belgium;NULL
+1014;Italy;Switzerland;NULL
+1000;Denmark;Denmark;NULL
+995;Germany;Sweden;NULL
+1016;Denmark;Germany;NULL
+1018;Denmark;Germany;NULL
+886;Austria;NULL;NULL
+997;Austria;Germany;NULL
+1382;Great Britain;Norway;NULL
+656;Germany;NULL;NULL
+952;Germany;NULL;NULL
+953;Germany;NULL;NULL
+1513;Germany;NULL;NULL
+659;Germany;NULL;NULL
+954;Germany;NULL;NULL
+211;Germany;NULL;NULL
+1485;Germany;NULL;NULL
+927;Spain;NULL;NULL
+561;Spain;NULL;NULL
+929;Spain;NULL;NULL
+742;Finland;NULL;NULL
+1051;France;Switzerland;NULL
+306;Czech Republic;NULL;NULL
+308;Czech Republic;NULL;NULL
+309;Czech Republic;NULL;NULL
+312;Czech Republic;NULL;NULL
+314;Czech Republic;NULL;NULL
+538;Spain;NULL;NULL
+682;Germany;NULL;NULL
+687;Germany;NULL;NULL
+688;Germany;NULL;NULL
+990;Germany;NULL;NULL
+676;Germany;NULL;NULL
+939;Germany;NULL;NULL
+940;Germany;NULL;NULL
+150;Germany;NULL;NULL
+151;Germany;NULL;NULL
+156;Germany;NULL;NULL
+935;Germany;NULL;NULL
+1380;Austria;Italy;NULL
+1082;Iceland;Great Britain;NULL
+1407;Cyprus;Greece;Isreal
+1409;Cyprus;Greece;Isreal
+1410;Cyprus;Greece;Isreal
+1107;Belgium;Germany;NULL
+627;Serbia;Bosnia & Herzegovina;Montenegro
+628;Serbia;Bosnia & Herzegovina;Montenegro
+630;Serbia;Bosnia & Herzegovina;Montenegro
+631;Serbia;Bosnia & Herzegovina;Montenegro
+1526;Montenegro;NULL;NULL
+1527;Serbia;Montenegro;NULL
+1528;Serbia;NULL;NULL
+1231;France;Germany;NULL
+1270;Poland;Germany;NULL
+1271;Poland;Germany;NULL
+1272;Poland;Germany;NULL
+1273;Poland;Germany;NULL
+1274;Poland;Germany;NULL
+1275;Poland;Germany;NULL
+353;Poland;Poland;NULL
+355;Poland;Poland;NULL
+1035;Poland;Poland;NULL
+1232;Poland;Poland;NULL
+1282;Switzerland;Germany;NULL
+1457;Germany;Switzerland;NULL
+1235;Spain;;NULL
+1236;Denmark;Poland;NULL
+664;Germany;;NULL
+608;Belgium;;NULL
+1241;Finland;Sweden;NULL
+1460;Germany;;NULL
+1276;Croatia;Bosnia & Herzegovina;NULL
+1277;Croatia;Bosnia & Herzegovina;NULL
+1278;Croatia;Bosnia & Herzegovina;NULL
+1279;Croatia;Bosnia & Herzegovina;NULL
+1530;Bosnia & Herzegovina;;NULL
+1531;Bosnia & Herzegovina;;NULL
+194;Germany;;NULL
+1269;Croatia;Serbia;NULL
+1245;France;Germany;NULL
+1514;France;Germany;NULL
+1246;Netherlands;Germany;NULL
+1381;France;Great Britain;NULL
+1248;Germany;Germany;NULL
+1613;Germany;Germany;NULL
+1627;Germany;Germany;NULL
+1384;Italy;Switzerland;NULL
+147;Germany;NULL;NULL
+148;Germany;NULL;NULL
+1050;Belgium;NULL;NULL
+1456;Belgium;NULL;NULL
+1515;Belgium;NULL;NULL
+1516;Belgium;NULL;NULL
+1517;Belgium;NULL;NULL
+1224;France;Switzerland;NULL
+1225;France;Switzerland;NULL
+660;Germany;NULL;NULL
+1251;Spain;NULL;NULL
+1455;Spain;NULL;NULL
+1252;Germany;NULL;NULL
+1529;Germany;NULL;NULL
+667;Germany;NULL;NULL
+1205;Hungary;romania;NULL
+1255;Great Britain;Netherlands;NULL
+1257;Belgium;Netherlands;NULL
+1258;Switzerland;austria;germany
+1583;Switzerland;austria;germany
+1259;Switzerland;Germany;Austria
+1284;Switzerland;Germany;Austria
+1287;Switzerland;Germany;Austria
+1288;Switzerland;Germany;Austria
+1290;Switzerland;Switzerland;NULL
+1261;Switzerland;Switzerland;NULL
+1285;Switzerland;Switzerland;NULL
+1286;Switzerland;Switzerland;NULL
+1262;Sweden;Germany;NULL
+1228;Spain;NULL;NULL
+1229;Spain;NULL;NULL
+1211;Spain;France;NULL
+1212;Spain;France;NULL
+1214;Spain;France;NULL
+1215;Spain;France;NULL
+1206;Spain;France;NULL
+1207;Spain;France;NULL
+1208;Spain;France;NULL
+1210;Spain;France;NULL
+1008;France;Belgium;NULL
+1378;Tunisia;Italy;NULL
+1430;Tunisia;Italy;NULL
+1619;Libya;Greece;NULL
+1383;United Kingdom;France;NULL
+1385;Ireland;United Kingdom;NULL
+1637;Ireland;GB;NULL
+1431;Greece;Cyprus;NULL
+1432;Greece;Cyprus;NULL
+1433;Greece;Cyprus;NULL
+1434;Greece;Cyprus;NULL
+1435;Greece;Cyprus;NULL
+1436;Greece;Cyprus;NULL
+1356;United Kingdom;Norway;NULL
+445;Belgium;NULL;NULL
+604;Belgium;NULL;NULL
+605;Belgium;NULL;NULL
+1458;Italy;France;NULL
+1628;United Kingdom;Germany;NULL
+1472;Austria;NULL;NULL
+1473;Germany;Austria;NULL
+1617;Slovenia;NULL;NULL
+1615;Slovenia;NULL;NULL
+1614;Slovenia;NULL;NULL
+1558;Slovenia;Hungary;Croatia
+1475;Germany;NULL;NULL
+1476;Germany;Austria;NULL
+1477;Germany;Austria;NULL
+1478;Slovenia;Italy;NULL
+1482;Italy;Slovenia;NULL
+1483;Austria;Slovenia;NULL
+1631;ITALY;Austria;NULL
+1636;Austria;NULL;NULL
+1620;Germany;NULL;NULL
+1629;Luxembourg;NULL;NULL
+1630;Germany;Luxembourg;NULL
+1518;Belgium;NULL;NULL
+1498;Czech Republic;slovakia;NULL
+1499;Slovakia;NULL;NULL
+1496;France;Switzerland;NULL
+1504;Netherlands;denmark;Germany
+1505;Netherlands;denmark;Germany
+1506;Netherlands;denmark;Germany
+1507;Netherlands;denmark;Germany
+1508;Netherlands;denmark;Germany
+1509;Netherlands;denmark;Germany
+1511;Netherlands;denmark;Germany
+1556;ITALY;Austria;NULL
+1510;Germany;NULL;NULL
+1512;Germany;NULL;NULL
+1521;Italy;NULL;NULL
+1557;Italy;NULL;NULL
+1519;Belgium;NULL;NULL
+1536;Serbia;NULL;NULL
+1537;Serbia;NULL;NULL
+1538;Romania;serbia;NULL
+1520;Bulgaria;serbia;NULL
+1522;Bulgaria;NULL;NULL
+1523;Serbia;NULL;NULL
+1524;Serbia;NULL;NULL
+1525;Serbia;NULL;NULL
+1532;Croatia;Bosnia & Herzegovina;
+1533;Croatia;Bosnia & Herzegovina;
+1534;Croatia;Bosnia & Herzegovina;
+1535;Croatia;NULL;NULL
+1541;Netherlands;NULL;NULL
+1542;Netherlands;NULL;NULL
+1543;Netherlands;NULL;NULL
+1544;Netherlands;NULL;NULL
+1545;Netherlands;NULL;NULL
+1546;Netherlands;NULL;NULL
+1622;FYR of Macedonia;Albania;NULL
+1623;FYR of Macedonia;;NULL
+1624;FYR of Macedonia;;NULL
+1547;United Kingdom;;NULL
+1555;Italy;Austria;NULL
+1559;Greece;macedonia;NULL
+1561;Belgium;netherlands;NULL
+1584;Spain;NULL;NULL
+1593;Spain;NULL;NULL
+1595;Spain;NULL;NULL
+1597;Spain;NULL;NULL
