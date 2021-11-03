@@ -1,0 +1,9 @@
+﻿StatusID;TypeName;Name
+0;NULL;No information
+1;AC;Compensation
+2;DC;LCC converter station
+3;AC;Overhead Line
+4;AC;Phase Shift Transformer
+5;DC;Subsea Cable
+6;AC;Substation
+7;DC;Underground Cable

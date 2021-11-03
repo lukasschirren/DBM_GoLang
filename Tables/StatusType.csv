@@ -1,0 +1,6 @@
+﻿StatusID ;Status
+0;No information 
+1;Commisioned
+2;In Permitting
+3;Planned But Not Yet Permitting
+4;Under Consideration
