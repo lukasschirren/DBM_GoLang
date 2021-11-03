@@ -16,6 +16,7 @@ type Project struct {
 
 type Investment struct {
 	InvestmentID string `sql:"InvestmentID, pk"`
+	ProjectID    string `sql:"ProjectID, unique"`
 	Name         string `sql:"Name"`
 }
 
