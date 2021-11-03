@@ -11,6 +11,7 @@ type Project struct {
 	ProjectID   string `sql:"ProjectID, pk"`
 	Promoter    string `sql:"promoter"`
 	ProjectName string `sql:"ProjectName, unique"`
+	Description string `sql:"Desription"`
 }
 
 type Investment struct {
