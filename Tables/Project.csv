@@ -1,0 +1,332 @@
+Project Id;Project Name;Promotor;Description
+1;RES in north of Portugal;REN;The main objective of this project consists in introducing the network reinforcements that are needed to allow the connection of new RES generation (hydro with pumping and also wind) that is foreseen in the north of Portugal, where the RES potential is high. The project includes a set of new 400 kV OHL that will form a new axis between V. Minho-R. Pena-Fridão-Feira. A new 400 kV OHL Pedralva-Sobrado (PCI 2.16.1) is also included in this cluster, in order to ensure the maintenance of the NTC values between PT and ES that were available prior to the connection of these new power plants.
+4;Interconnection Portugal-Spain;"REE;REN";In order to reach a complete operational Iberian Electricity Market (MIBEL), and strengthening the Internal Energy Market (IEM), the increase of the interconnection between Spain and Portugal is needed. A new OHL 400kV interconnection between Fontefría (Spain) and Ponte de Lima (Portugal). Internal reinforcements complement the cross border section, such as the axis in Spain between Fontefría and Beariz and in Portugal between Ponte de Lima (previously Viana do Castelo) and Vila Nova de Famalicão (previously Vila doConde).This project was included in the 2013, 2015 and 2017 PCI list (PCI 2.17).
+13;Baza project;REE;This Project includes a new double circuit Caparacena-Baza-La Ribina 400 kV OHL, in Spain with two new 400 kV substations in Baza and La Ribina. This project allows to solve today restrictions and integrate new RES generation in an area without transmission network.
+16;Biscay Gulf;"REE;RTE";The project consist of  370 km HVDC-VSC link (2 bipoles of 1000 MW each) mainly subsea in the Biscay Gulf, between Gatica (Basque Counrty, ES) and Cubnezais (Aquitaine, FR). Included in the Madrid Declaration, this project aims at improving the interconnection ES-FR. This project was included in the 2013,2015 and 2017 PCi list (PCI 2.7)
+21;Italy-France;"RTE;TERNA";"""The Project comprises a new  320 kV HVDC  interconnection between France and Italy. The new HVDC link will connect the substations of Piossasco and Grand Ile mainly along motor way infrastructures and the Fréjus tunnel."""
+23;FR-BE I: Avelin/Mastaing-Avelgem-Horta HTLS;"ELIA; RTE";The project consists in the reconductoring of the existing 80km double-circuit 400kV AC cross-border line between Lille (Avelin/Mastaing, FR) - Avelgem (BE) and onwards to Zomergem (Horta, BE) with High Temperature Low Sag conductors to double its capacity.
+25;IFA2;NGIHL,RTE;IFA2 is a new HVDC VSC subsea interconnector that will develop between Tourbe in France (area of Caen) and Chilling in Great Britain (area of Southampton).
+26;Reschenpass Interconnector Project;"APG; TERNA";New 220kV interconnector between the substations Nauders (AT) and Glorenza (IT)
+28;Italy-Montenegro;"CGES;TERNA";""" The Italy-Montenegro interconnection project includes a new HVDC subsea cable between Villanova (Italy) and Lastva (Montenegro) and the DC converter stations. The HVDC link between Italy and Balkansis correlated with the Transbalkan Corridor (projects 146 and 227) and the Mid Continental East Corridor (project 144)."""
+29;Italy-Tunisia;"TERNA; STEG";"""The project consists in a new interconnection between Tunisia and Sicily to be realized through an HVDC submarine cable. The realization of the project is supported by the Italian and Tunisian Governments to increase the interconnection capacity of the Euro-Mediterranean system. Moreover, the project will contribute to reduce, under specific conditions, present and future limitations to the power exchanges on the northern Italian border, with France, Switzerland, Austria and Slovenia, and therefore it will allow to significantly increase the transmission capacity and its exploitation by at least 500 MW on that boundary."""
+31;Italy-Switzerland;"SWISSGRID;TERNA";""" The project consists of a new 400 kV line San Giacomo-Pallanzeno, conversion from AC to DC of the 220 kV line between Pallanzeno and Milan area, including the realization of the 2 AC/DC converter stations and 220 kV to 400 KV substation upgrade. Additional internal lines in Italy and in Switzerland are required to get the full advantage from the interconnection capacity provided by the cross-border line"""
+33;Central Northern Italy;TERNA;"""The project consists in the strengthening of interconnection between the northern and the central part of Italy. It will involve the upgrading of existing 220 kV over-head line to 400 kV between Colunga and Calenzano substations as well as the removing of limitations on the existing 220 kV network in Central Italy"""
+35;CZ Southwest-east corridor;CEPS;"""A corridor of internal 400 kV overhead lines inside the Czech Republic connecting existing 420 kV substations between Prestice, Kocin, Mirovka and Cebin in the southwest-east direction. The project consists of buidling a new AC 400 kV overhead line which connects 420 kV substations Kocin and Mirovka with double circuit line of about 120.5 km lenght and a capacity of 2x1730 MVA, building of a 400 kV overhead lines that involves changing of a 400 kV existing single-ciruit line to double-circuit line with a capacity of 2x1730 MVA between Kocin-Prestice. The upgrading of the existing 420 kV substation Kocin is also a part of the project"""
+36;Kriegers Flak CGS;50Hertz Transmission, Energinet.dk;The Combined Grid Solution (CGS) is new a AC offshore connection between Denmark and Germany with back to back stations placed in Germany. The project is a combined grid connection of the offshore wind farms Kriegers Flak, Baltic 1, 2 and an interconnection between both countries.
+37;"""Norway - Germany, NordLink""";"STATNETT;TENNET-DE";NordLink: a new HVDC connection between Southern Norway and Northern Germany.  Estimated subsea cable length: 514km. Capacity: 1400 MW.
+39;"""DKW-DE, step 3""";"Energinet.dk; TENNET-DE";New double circuit 380kV line from Kassoe (DK) to Audorf (DE). As third phase of the Danish-German agreement to upgrade cross border transfere capacity. The project is labelled by the EC as project of common interes (PCI 1.4.1)
+40;Belgium-Luxemburg-Germany: long-term perspective;"CREOS; ELIA; AMPRION";"An increase of transfer capacity across the BE-LU-DE corridor is envisioned towards the 2030-2040 time horizon.
+
+Further studies will determine the appropriate implementation option and timing, taking into account
+- the recent evolutions with installation of PST in Schifflange and creation of the LuxRing as reported in previous TYNDPs
+- the expected evolution on the LU-DE border as presented in project 328"
+47;Westtirol - Vöhringen;"AMPRION; APG";"Westtirol (AT) - Zell/Ziller (AT)
+Westtirol (AT) - Vöhringen (DE)"
+48;New SK-HU intercon. - phase 1;MAVIR,SEPS;This project will increase the transfer capacity between Slovak and Hungarian transmission systems, improve security and reliability of operation both transmission systems and support North - South RES power flows in CCE region. Main investments of this project are double circuit AC OHL 400 kV from new Gabcikovo (Slovakia) substation to Gonyu (Hungary) substation, with one circuit connected to the Velky Dur (Slovakia) substation and double circuit AC OHL (preliminary armed only with one circuit on Hungarian side) 400 kV from Rimavska Sobota (Slovakia) substation to Sajoivanka (Hungary) substation.
+62;Estonia-Latvia 3rd IC;"AST; ELERING";Project nr 62 is a planned third 330 kV interconnection between Estonia and Latvia. The project consists of 3 investments of which nr 386 is the main inter-area investment, AC 330 kV OHL between Kilingi-Nõmme substation in Estonia and Riga CHP2 substations
+71;COBRA cable;Energinet,TENNET-NL;The project is an interconnection between Endrup (Denmark) and Eemshaven (The Netherlands). The project consists of a 320 kV DC subsea cable and related substations on both ends, 325 km apart, applying VSC DC technology.
+74;Thames Estuary Cluster (NEMO-Link);ELIA, NGIHL, NGET;This project envisions the realization of NEMO-Link – the first interconnector between Great Britain and Belgium – as a 1 GW HVDC link of ~140km with technical commissioning by 2018 and operation in 2019, including a number of onshore UK reinforcements to facilitate this and other potential interconnector connections within the Thames Estuary region.The NEMO interconnector is promoted by NGIHL and Elia. The reinforcements to the internal GB network are the responsibility of NGET.
+75;Modular Offshore Grid (MOG);ELIA;The Modular Offshore Grid aims at centralizing the offshore wind of four offshore future wind farms in Belgium in an offshore hub and transporting it via three 220 kV AC cables to the new substation Stevin at Zeebrugge. Via the substation Stevin the MOG makes the connection to the STEVIN link (new 400kV axis between Zeebrugge & Zomergem).  The MOG is expected to be fully operational by 2020.
+77;Anglo-Scottish -1;"NGET; SPT";A new 2.4GW (short term rating) submarine HVDC cable route from Hunterston to Deeside with associated AC network reinforcement works at both ends.
+78;South West Cluster;NGET;New 400kV substation at Hinkley Point. New 400kV transmission route from Hinkley Point to Seabank. Reconstruction of Bridgewater substation for 400kV operation. Uprate Bridgewater - Melksham to 400kV.
+81;North South Interconnector;EIRGRID, SONI;A new 400 kV interconnector between Woodland in Ireland and Turleenan in Northern Ireland.
+82;RIDP I;EIRGRID, SONI;The infrastructure development is required to facilitate connection of renewable generation in the North and West of the Island.  It will further integrate the Ireland and Northern Ireland transmission systems and provide capacity for substantial demand growth.
+85;Integration of RES in Alentejo;REN;The main objective of this project consists in introducing the network reinforcements that are needed to allow the connection of new RES generation (mostly solar but also some wind) that is foreseen for the south region of Portugal, where the solar potential is considerably high. The project includes two new 400 kV OHL that will constitute a new axis between F. Alentejo-Ourique-Tavira substations. It is also included the expansion of the Ourique substation to include the 400 kV voltage level.
+85;Integration of RES in Alentejo;REN;The main objective of this project consists in introducing the network reinforcements that are needed to allow the connection of new RES generation (mostly solar but also some wind) that is foreseen for the south region of Portugal, where the solar potential is considerably high. The project includes two new 400 kV OHL that will constitute a new axis between F. Alentejo-Ourique-Tavira substations. It is also included the expansion of the Ourique substation to include the 400 kV voltage level.
+92;ALEGrO;"AMPRION;ELIA";This project realizes the first interconnection between Belgium (Lixhe) and Germany (Oberzier) as a 100 km HVDC link with a bidirectional rated power of 1.000 MW capacity
+94;GerPol Improvements;50Hertz Transmission, PSE;Upgrade of the existing 220 kV double interconnection line between Krajnik and Vierraden to 400 kV double line in the same direction together with installation of Phase Shifting Transformers on two existing interconnection lines (Krajnik-Vierraden by 50Hertz)
+96;Keminmaa-Pyhänselkä;FINGRID;"The project is 400 kV overhead line in North Finland. It is part of the 3rd AC cross border project between Finland and Sweden.
+Will also allow integration of new RES generation at Bothnian bay."
+103;Reinforcements Ring NL phase I;TENNET-NL;Upgrade of existing 380kV circuits in the Dutch main ring from 2,5 kA to 4 kA.
+107;Celtic Interconnector;EIRGRID,RTE;Celtic Interconnector will be the first interconnection between Ireland and France. A survey of the route of the HVDC (VSC) link with 700 MW capacity has been done from the southern coast of Ireland to La Martyre (Finistère) in France.
+110;Norway-Great Britain NSN;"NGIHL;STATNETT";North Sea Link, 1400 MW and 720 km long interconnector between Norway and England.
+111;3rd AC Finland-Sweden north;"FINGRID;SVK";Third AC 400 kV overhead line interconnector between Finland north and Sweden SE1. Strengthening the AC connection between Finland and Sweden is necessary due to market needs, security of supply in Finland, new wind power generation and larger conventional units.
+113;Doetinchem - Niederrhein;"AMPRION;TENNET-NL";This new AC 380-kV double circuit overhead line will interconnect The Netherlands and Germany (Rhine-Ruhr area). Upon realisation of the project there will be four double circuit interconnections between The Netherlands and Germany. The project will increase the cross border capacity and will facilitate the further integration of the European Energy market especially in Central West Europe. The new line will also increase the security of supply.
+120;MOG II: connection of up to 2 GW additional offshore wind Belgium;ELIA;"As per the concept of MOG (project 75), the MOG II aims at centralizing the offshore wind farms in an offshore hub and transporting it via 220 kV AC cables to a substation along a new corridor Stevin-Avelgem (see project 329).  Current hypothesis is to apply this concept in two-fold thus two platforms and cable sets centralizing ~1000 MW each
+
+Structure, capacity, timing etc. are all subject to the identification of new offshore concession zones in the Belgian part of the North Sea and subsequent proces to translate this into an implementation plan with all involved stakeholders."
+121;Nautilus: 2nd interconnector Belgium - UK;"ELIA;NGIHL";"This project considers the possibility of a ~1 - 1.4 GW second HVDC connection between UK and Belgium at the earliest by 2028 (indicative timing).
+The timing as well as location, routing, capacity are subject to further studies. In this context, Elia and NGIHL are conducting a bilateral feasibility study."
+123;LitPol Link Stage 2;LITGRID,PSE;The LitPol Link Stage 2 is a continuation of building of the interconnection between Poland and Lithuania in order to achieve the planned transmission capacity of 1000 MW in both directions. Building of additional internal investments in Poland and Lithuania are necessary. Project will help to further strenghten of Baltics integration into European market.
+124;NordBalt phase 2;"AST;LITGRID;SVK";Second phase includes the internal network reinforcements in Sweden, Lithuania and Latvia, a key investments to accomplish full utilization of the NordBalt cable between Lithuania and Sweden
+126;SE North-south reinforcements;SVK;Reactive measures in substations and series compensations in order to increase capacity between SE2 and SE3. Replacement of ageing overhead lines that also will contribute to the increased capacity.
+127;Central Southern Italy;TERNA;"""The project consists in the reinforcement of southern Italy 400 kV network through new 400 kV lines. The activities will involve the network portions between the substation of Villanova and Foggia, Deliceto and Bisaccia as well as Laino and Altomonte"""
+130;HVDC Wolmirstedt to area Isar;50Hertz Transmission, TenneT DE;2 GW HVDC-connection from North-East Germany (Area of Wolmirstedt), an area with high installed capacities of RES, to the South of Bavaria (area of Isar), an area with high consumption and connections to storage capabilities.  A Capacity extension to 4 GW is under investigation.
+132;HVDC Line A-North;Amprion;Project 132 consists of a new HVDC cable from Emden-East to Osterath. This HVDC has a transfer capacity of 2 GW.
+134;N-S Western DE_section South;"AMPRION;TRANSNET-BW";Project 134 provides significant North-South transmission capacity in Western Germany. The project consists of AC reinforcements and upgrades of existing corridors towards the load centers of Baden-Württemberg and Switzerland.
+135;N-S Western DE_parallel lines;AMPRION;Project 135 provides significant grid reinforcement between Cologne and the Ruhr district (North-West-Germany) and Koblenz/Frankfurt (South-West-Germany) to integrate RES.
+138;Black Sea Corridor;"""TRANSELECTRICA, ESO-EAD""";The project consists of one 400kV double circuit OHL Cernavoda-Stalpu with in/out connection of one circuit in Gura Ialomitei, one 400 kV double circuit OHL Smardan-Gutinas in Romania and also the new 400 kV OHL Dobrujda-Burgas in Bulgaria.
+142;CSE4;ESO,IPTO-SA;The project concerns the construction of a new AC 400kV interconnection between Bulgaria and Greece and new AC 400kV overhead lines  at the south part of Bulgaria. This project will increase cross border transfer capacity between Bulgaria and Greece
+144;Mid Continental East corridor;"TRANSELECTRICA; EMS";The project consists of one double circuit 400 kV line between Serbia and Romania and reinforcement of the network along the western border in Romania: one new simple circuit 400 kV line from Portile de Fier to Resita and upgrade from 220 kV double circuit to 400 kV double circuit of the axis between Resita and Arad, including upgrade to 400 kV of three substations along this path: Resita, Timisoara, Sacalaz.
+150;Italy-Slovenia;"TERNA;ELES";"""The project consists in a new HVDC link between Salgareda (Italy) and Beričevo (Slovenia) which will strengthen the connection between Slovenia and Italy. On italian side the project is under permitting since 2012.
+Terna and ELES are evaluating the opportunity to implement the project according to the following two phases:
+• phase 1 reinforcement of existing grid (PSTs, upgrade of existing lines)
+o Commissioning date: 2020
+o Delta GTC contribution: 400 MW
+• phase 2 HVDC link (two separate investments: one for the IT side and one for the SI side)
+o Substation 1: Beričevo
+o Rated power: 800/600 MW
+o Commissioning date: 2022/2025
+o Delta GTC contribution: 600 MW"
+153;France-Alderney-Britain;RTE,FAB Link Ltd;France-Alderney-Britain (FAB) is a new HVDC subsea interconnector between Exeter (UK) and Menuel (France) with 1,4 GW capacity.
+164;N-S Eastern DE_central section;TENNET-DE;North-South transmission in Germany. AC links from Northern Germany towards the load centers of Bavaria and Baden-Württemberg.
+167;Viking DKW-GB;Energinet.dk, NGIHL;"2x700 MW HVDC subsea link across the North Seas. New substations on both sides; Bicker Fen (GB); Revsing (DK)"
+170;Baltics synchro with CE;"AST;ELERING;LITGRID";The power system of the Baltic States which includes Estonia, Latvia, Lithuania (Baltic Integrated Power System) currently is operating in parallel with the Integrated/Unified Power System (IPS/UPS) of Russia and Belarus. The aim of this project is to remove the energy isolation of the Baltic States from the rest of the EU and connect their power systems with systems using the same technical standards and developing in the same European legal framework. This strategic goal has been set by the Prime Ministers of the Baltic States in 2007.
+172;ElecLink;ElecLink;ElecLink is a new FR – UK interconnection cable with 1000 MW capacity through the Channel Tunnel between Sellindge (UK) and Mandarins (FR). Converter stations will be located on Eurotunnel concession at Folkestone and Coquelles. This HVDC interconnection is a PCI project (Project of Common Interest) no. 1.7.3
+173;FR-BE II: PSTs Aubange-Moulaine;"ELIA;RTE";Installation of two phase shifting transformers in Aubange, one on each of the 225kV circuits of the Aubange-Moulaine interconnector.
+174;Greenconnector;Worldenergy SA;Greenconnector is an HVDC interconnector project between Italy and Switzerland for power transport using DC cables rather than overhead lines. The route length is about 150 km. The design power is 1000 MW (1200 MW in overload condition), while the DC voltage is +/- 400 kV DC. Two cables will be installed, working with a bipolar scheme. Great part of the cables route will exploit a section of an existing oil pipeline, no longer in service since January 1997. This pipeline crosses the Italian and Switzerland border at Splügenpass and is running close by the two end stations of the Greenconnector project (Sils in Graubunden Canton and Verderio Inferiore, Lecco). The cables will be pulled inside the pipeline itself, reducing the amount of civil works required before and after cable laying and therefore limiting even temporary environmental impact. For about 47 km the cables will run across the Como lake.
+175;Great Belt II;Energinet.dk;This project candidate includes an HVDC connector between Denmark-West (DKW) and Denmark-East (DKE). The connector is called Great Belt-2.
+176;Hansa PowerBridge I;50Hertz Transmission, Svenska Kraftnät (SvK);New HVDC interconnector between Sweden (SE4) and Germany (50 Hertz, Continental) aiming to enhance the integration of the Nordic and the continental power market. Moreover the interconnector facilitates RES integration and increases the system adequacy in both systems.
+179;DKE - DE (Kontek2);50Hertz Transmission, Energinet.dk;This project includes a HVDC subsea interconnector between Denmark-East (DKE) and Germany (DE) and is called Kontek-2. A final grid-connection solution is not prepared yet.
+183;"""DKW-DE, Westcoast""";Energinet.dk,TENNET-DE;"New 400 kV line from Endrup (DK) to Klixbüll (DE), increasing the transfer capacity at the
+West Coast between these countries. The project is labelled by the EC as project of common interest (PCI 1.3.1)."
+186;east of Austria;APG;"To allow the grid integration of the planned renewable energy generation (mainly wind power) in the north-eastern part of Austria (""Weinviertel"") the transmission grid infrastructure (currently a rather weak 220kV line) has to be enforced and new substation for the connection needs to be erected."
+187;St. Peter (AT) - Pleinting (DE);"APG;TENNET-DE";Increase of the cross border transmission capacity by erecting a new 380kV line between St. Peter (Austria) and Pleinting (Germany). This leads to an improved  connection of the very high amount of RES in Germany and the pump storages in the Austrian Alps.
+190;NorthConnect;NorthConnect KS;"""A 650 km long subsea interconnector between Norway and Scotland is planned to be realised in 2022.  The interconnector is planned to be a 500 kV, 1400 MW HVDC subsea interconnector between western Norway (Simadalen) and eastern Scotland (Peterhead), UK."""
+191;OWP TenneT Northsea Part 2;TENNET-DE;Connection of offshore wind parks in the North Sea to Germany. Mainly subsea DC cable. The  OWP will help to reach the European goal of CO2 reduction and RES integration
+192;OWP Northsea TenneT Part 3;TENNET-DE;Connection of offshore wind parks in the North Sea to Germany. Mainly subsea DC cable. The  OWP will help to reach the European goal of CO2 reduction and RES integration
+381;OWP Northsea Part 4;Amprion;"Connection of offshore wind parks in the North Sea to Germany. Mainly subsea DC cable. The  OWP will help to reach the European goal of CO2 reduction and RES integration. 
+This project has been approved in the national grid development process 2017 under the condition, that it is to be re-confirmed in 2019."
+193;Godelleta-Morella/La Plana;REE;This project consist of a new OHL 400 kV AC axis Godelleta-Morella/La Plana (Spain). This project allows to solve today and future congestion in the north-south axis of Levante
+194;Cartuja;REE;This project includes a new 400 kV double circuit Cartuja-Arcos de la Frontera and a new substation Cartuja 400 kV (Spain). This project would allow in the long term to connect future onshore and offshore wind generation.
+197;N-S Finland P1 stage 2;FINGRID;Several 400 kV AC lines are planned in Finland to be built to increase the North-South transmission capacity thusenabling the integration of new renewable and conventional generation in northern Finland and to compensate dismantling of obsolescent existing 220 kV lines. This project is fifth 400 kV overhead line connecting North Finland to South Finland.
+199;Lake Geneva South;RTE,SWISSGRID;"This project comes on top of ""PST Foretaille"" and ""upstream grid reinforcement in France"" projects. It consists in upgrading the existing 225-kV overhead line south of Lake Geneva, possibly to 400-kV."
+200;CZ Northwest-South corridor;CEPS;"""A corridor of internal 400 kV overhead lines inside the Czech Republic connecting new 420 kV substations between Vernerov, Vitkov and existing substation Prestice in the northwest-south direction incuding looping of existing 400 kV overheadline (V413: Reporyje-Prosenice) into the existing substation 420 kV Mirovka. The project consists of building of two new 420 kV substations Vernerov and Vitkov, building of two 400 kV overhead lines involving changing a 220 kV double-circuit lines to 400 kV double-circuit lines with a capacity of 2x1730 MVA between Vernerov-Vitkov and Vitkov-Prestice and building a new double-circuit overhead line between Mirovka and V413"""
+203;Morella-La Plana (previosly Aragón-Castellon);REE;he project consists of a 400kV axis Morella-La Plana. The previous project already considered additional investments that are already in service, that is Mudejar-Morella , Mezquita-Morella and  a new 400kV substation Mudejar with connection to the axis Aragón-Teruel (Spain). This project reinforces the Cantabric-Mediterranean axis solving today and future congestions.
+206;Reinforcement Southern DE;"TENNET-DE;TRANSNET-BW";"AC-busbar"""" in Southern Germany for energy dispatching within Bavaria and Baden-Württemberg and gathering solar energy."
+207;Reinforcement Northwestern DE;TENNET-DE;Integration of on- and offshore RES in Lower Saxony
+208;N-S Western DE_section North_1;"AMPRION;TENNET-DE";Project 208 consists of new 380 kV overhead line s(partly in existing corridor). The project is needed for integration of on- and offshore wind energy and transport to the load centres in western and southern parts of Germany.
+209;Reinforcement Northeastern DE;TENNET-DE;New 380-kV-lines in the area of Schleswig-Holstein mainly for integration of Onshore-Wind.
+210;Wurmlach (AT) - Somplago (IT) interconnection;Alpe Adria Energia Srl;"Somplago - Wurmlach interconnection is a cross-border electrical line promoted by Alpe Adria Energia Srl. The project concerns a 220kV a.c. merchant line, about 300 MW from Somplago substation to new Wurmlach substation, including Phase Shifter Transformer located in Austria""."
+214;Interco Iceland-UK;"LANDSNET;NGIHL";Interconnector (Sea cable) between Iceland and Great Britain. The Cable is DC  with 800-1200 MW capacity and over 1.000 km long. 99.98% of the generation in Iceland  is RES. Icelands hydro generation is highly flexible and ideal for complementing intermittency of GB´s growing wind sector.
+219;EuroAsia Interconnector;EuroAsia Interconnector;"""The Euro Asia Interconnector consists of a 500 kV DC underwater electric cable and any essential equipment and/or installation for interconnecting the Cypriot, Israeli and the Greek transmission networks (offshore). The Interconnector will have a capacity of 2000 MW and a total length of around 820 nautical miles/around 1518 km (approx. 329 km between CY and IL, 879 km between CY and Crete and 310 km between Crete and Athens) and allow for reverse transmission of electricity."""
+225;2nd interconnector Belgium - Germany;"AMPRION;ELIA";"This project considers the possibility of a second ~1GW HVDC interconnection  between Belgium and Germany at the earliest by 2028 (indicative timing).
+The timing as well as location, routing, capacity are subject to further studies. In this context, Elia and Amprion are conducting a bilateral feasibility study."
+227;Transbalkan Corridor;EMS, CGES, NOSBiH;The project aim is to increase transmission capacity within Serbia and facilitate  exchange of energy between north-east part of Europe and south-west of  Europe.
+228;Muhlbach - Eichstetten;"RTE; TransnetBW; Amprion";"Reinforcement of the existing 400kV OHL: 
+
+Deployment of a second 400kV circuit at existing double circuit OHL Muhlbach - Eichstetten, instead of the currently operated circuit Eichstetten - Vogelgruen (currently operated with 225kV). Some topological adjustments of the existing grid  in the area might prove to be necessary."
+229;GerPol Power Bridge II;50Hertz Transmission, PSE;Project consist from following investments: indentation to the 2x400 kV line Baczyna-Plewiska (new routes: Baczyna-Zielona Góra, Zielona Góra-Plewiska), 2x400 kV line Zielona Góra - Gubin, crossborder line 2x400 kV line Gubin (PL)-Eisenhuettenstadt (DE)
+230;GerPol Power Bridge I;PSE;The reinforcements in the Polish transmission network in western part of the country near Polish/German border. Construction new AC 2x400 kV lines Mikułowa - Świebodzice, Krajnik - Baczyna and Baczyna - Plewiska.
+231;Concept project Germany-Switzerland ;"swissgrid; TransnetBW; Amprion";"""This concept project focuses on increasing the transmission capacity between Germany and Switzerland. 
+
+One already identified investment is the upgrade of a 220 kV crossborder line to 380 kV between the substations of Tiengen (DE) and Beznau (CH)."""
+233;Connection of Aragon  Pumping hydro;REE;Potential necessary transmission development for the connection of 3rd party storage project (pumping hydro) that has received a PCI label in the 3rd list 2017. No details about the required network are known yet.
+234;DKE - PL-1;"Energinet; PSE";"HVDC connection DKE-PL;"
+235;HVDC Brunsbüttel/Wilster to Großgartach/Grafenrheinfeld;"TenneT-DE; TransnetBW";"4 GW HVDC connection from Northern Germany (areas of Brunsbüttel/Wilster) to Bavaria / Baden-Württemberg (areas of
+Großgartach/Grafenrheinfeld).North Germany is characterised by a high amount of RES, the feed-in exceeds the local
+load and therefore there is a high demand for transfer to the load centres in southern parts of Germany. With the further
+installation of additional renewable energy, the relevance of this projects increases"
+236;Internal Belgian Backbone West: HTLS upgrade Horta-Mercator;ELIA;Project consists of replacing the conductors of the ~50km double circuit 380 kV overhead line between the substations of Horta and Mercator with high performance conductors, hereby doubling the transport capacity of the Horta-Mercator corridor.
+239;Fenno-Skan 1 renewal;"Fingrid;Svenska Kraftnät";Replacement of the existing 400 kV HVDC cable interconnection between Finland and Sweden. Fennoskan 1 will be decomissioned at the same time with this project being commisioned, which reduces capacity between FI and SE3 by 400 MW while increasing SE2-FI by 800 MW.
+240;380-kV-grid enhancement between Area Güstrow and Wolmirstedt;50Hertz Transmission;380-kV-grid enhancement between Area Güstrow and Wolmirstedt
+241;Upgrading of existing 220 kV lines between HR and BA to 400 kV lines;"HOPS;NOS BiH";"Upgrading of existing  220 kV lines between SS Dakovo (HR) and SS Tuzla/Gradacac (BA) to 400 kV lines.
+The project 241, has been proposed assessed in the TYNDP 2016, based on the results of common planning studies performed in the CSE Region during preparation of Regional investment plan 2015. The project assumes upgrade of existing 220 kV lines between SS Đakovo (HR) and SS Tuzla (BH) and SS Gradačac (BH) to 400 kV, with additional internal new double 400 kV line connecting SS Đakovo to existing 400 kV line Žerjavinec - Ernestinovo. This project is under consideration and there is a need for pre-feasibility study."
+242;Offshore Wind Baltic Sea (I);50Hertz Transmission;AC grid connections connecting Offshore Wind Farms in Cluster 1 of the Baltic Sea (see German Offshore Grid Development Plan). Cluster 1 is located north east of Ruegen in the German Exclusive Economic Zone.
+243;New 400 kV interconnection line between Serbia and Croatia;EMS, HOPS;Construction of new 400 kV interconnection line Sombor (RS) - Ernestinovo (HR)
+244;Vigy - Uchtelfangen area;"Amprion;Rte";An upgrade of the existing over headline between the substations Ensdorf, Uchtelfangen and Vigy is planned to increase the thermal cross-border capacity. For this reinforcement the options are either the implementation of High Temperature Low Sag (HTLS) conductors or a reconstruction of the tie-line in the existing route. To allow an optimal use of the capacity increase the installation of phase shifter transformers (PSTs) is necessary. For these measures the substations have to be adjusted accordingly.
+245;Upgrade Meeden - Diele;"TENNET-NL;TENNET-DE";Increase of the interconnection capacity between The Netherlands and Germany by adding one new phase shifting transformer and apply dynamic line rating on the existing 380 kV double circuit tie line between Meeden and Diele.
+247;AQUIND Interconnector;Aquind Limited;"AQUIND Interconnector is a proposed High Voltage Direct Current (HVDC) subsea and underground electric power transmission link between the South of England and Normandy in France with a net nominal power capacity of 2 GW. The Proposed Development shall consist of two independent 1000 MW interconnector links.
+
+• The 320 kV DC subsea cable route will be between 170 km to 190 km in length, spanning between the two landfall sites at Eastney (UK) and near Dieppe (France). 
+• The British 320 kV DC terrestrial cables will be approximately 20 km long.
+• The French 320 kV DC terrestrial cables will be approximately 40 km long.
+• The 400 kV AC cable routes are not anticipated to exceed 2 km in UK.
+• The 400 kV AC cable routes are not anticipated to exceed 2 km in France. 
+
+The main investment items are listed above, additional items will include the procurement of spare parts for the cables and converter stations."
+248;Offshore Wind Baltic Sea (II);50Hertz Transmission;"AC and DC grid connections connecting Offshore Wind Farms in
+Cluster 1, 2, 4 and 6 of the Baltic Sea (see German Offshore Grid
+Development Plan)"
+250;"""Merchant line """"Castasegna (CH) - Mese (IT)""""""";Mera srl (a 100% subsidiary of Repower AG);The planned Transmission project is a merchant line on the swiss-italian border between Castasegna (CH) and Mese (IT). The planned Cable connection in 220 kV AC has a length of around 14 km, 13.5 of witch in Italy. In connection with the realisation of the project a Ra-tionalisation of the 380 and 132 kV Grid in the region Mese (Provincia di Sondrio) is planned. The expected NTC increase is around 200-250 MW.
+251;Audorf-Dollern;TenneT-DE;"New 380-kV-line Audorf – Hamburg/Nord – Dollern” in existing 220-kV-corridor. Main focus of the project is the integration
+of onshore-RES – mainly wind – in Schleswig-Holstein. The project is labeled as PCI 1.4.2. and 1.4.3. It is the
+southbound connection of PCI 1.4.1. and is necessary to increase the GTC between Dänemark/West and Germany by
+720/1000 MW."
+252;Internal Belgian Backbone Center-East: HTLS upgrade Massenhoven-VanEyck-Gramme-Courcelles-Bruegel-Mercator;ELIA;"This project structurally strenghtens the central & eastern part of the internal Belgian backbone. The current conductors on the 380kV ring Massenhoven-VanEyck-Gramme-Courcelles-Bruegel-Mercator will be replaced by HTLS conductors, doubling the capacity.
+
+The implementation starts with the upgrade of the Massenhoven-VanEyck section by 2024 as this is the weakest link only having 1 conductor at the moment. It then follows a phased approach running up to 2035. Phasing is subject to optimalisation in function of outage constraints (operational secutiry) and the evolution of the production park."
+253;Upstream reinforcement in France to increase FR-CH capacity;RTE;"The project consists in attracting the flows to the interconnection south of Lake Geneva in order to alleviate the congestion on the link west to Lake Geneva. It is necessary before implementing Project 199  """"Lake Geneva South"""" project. This project is coupled with the ""PST Foretaille"" project and will be implemented right after the implementation of PST in Foretaille."
+254;Ultranet;"Amprion;TransnetBW";The Ultranet project consists of a 2 GW HVDC-connection from the Region of Osterath (Rhineland) to the Region of Philippsburg (Baden-Württemberg). It's a pilot project with DC circuits on the same pylons as AC lines and will therefore deliver profund knowledge.
+255;Connection Navarra-Basque Country ;REE;New AC OHL 400kV  double circuit Ichaso-Castejón/Muruarte 400kV (one circuit Castejon-Ichaso, second circuit Muruarte-Ichaso). This projects allows to solve today and future congestions associated to RES integration. In addition it allows the future connection of the cross border project 276.
+256;Study to upgrade interconnection DE-NL;"Amprion;TENNET-NL";Market analysis revealed the need for additional cross-border capacity between Germany and The Netherlands. Therefore, a bilateral study is started to investigate options for a further increase in addition to existing and planned interconnections.
+258;Westcoast line;TenneT-DE;"New 380-kV-line Brunsbüttel – Niebül inside Schleswig – Holstein. Main focus of the project is the integration of onshoreRES
+– mainly wind – in Western Schleswig-Holstein. The project is labeled as PCI 1.3.2. It is the southbound connection
+of PCI 1.3.1. and is necessary to increase the GTC between Dänemark/West and Germany by 500 MW."
+259;HU-RO;MAVIR,Transelectrica;"400 kV OHL between Hungary and Romania. In Romania, the following internal investments are necessary associated to this project:
+-new 400/220 kV transformer in substation Rosiori
+-reconductoring 220 kV OH line Urechesti-Tg. Jiu-Paroseni- Baru Mare-Hasdat
+-new 400/220 kV transformer in substation Resita"
+260;New Great Britain - Netherlands interconnection;"NGIHL;TENNET-NL";This project considers the possibility of a second 1- 2GW interconnector between GB and the Netherlands. The project will also consider UK / NL offshore wind connection optionality.
+262;Belgium-Netherlands: Zandvliet-Rilland;"ELIA; TENNET-NL";"Bilateral study has assessed multiple reinforcement options. The study concluded that an upgrade of the existing corridor Zandvliet-Rilland via the installation of two additional PSTs in Zandvliet and the upgrade of Zandvliet-Rilland line to high capacity conductors is the most appropriate solution.
+
+The constuction of the substation Rilland is part of TenneT's project ""Zuid-West 380"", id XXX."
+263;Lake Constance East;Swissgrid, VUEN;This project increases the capacity between CH and its neighbours DE and AT. This enables to connect large renewable generation in Northern Europe to consumers and pump storage devices in the Alps, thus noticeably increasing the mutual balancing between both regions.
+264;Swiss Roof I;Swissgrid;This project increases the capacity between CH and its neighbours DE and AT. This enables to connect large renewable generation in Northern Europe to pump storage devices in the Alps, thus noticeably increasing the mutual balancing between both regions.
+265;Tessin;Swissgrid;reinforcement of the infrastructure in canton Tessin
+266;Swiss Ellipse I;Swissgrid;The project helps accommodate new pump storage units which mainly support the increasing RES generation in the European areas with solar and wind generation.
+267;Hansa PowerBridge II;50Hertz Transmission, Svenska Kraftnät (SvK);Possible second HVDC cable interconnector between southern Sweden (Bidding area SE4) and Germany (50Hertz). This project candidate is driven by market based target capacities found in the Common Planning Studies by Regional Group Baltic Sea.
+269;Uprate the western 220kV Sevilla Ring;REE;
+270;FR-ES project -Aragón-Atlantic Pyrenees;"REE;RTE";This project consist of a new HVDC interconnection between France and Spain located in the Central part of the Pyrenees between Aragón region (Spain) and Marsillón (France). Internal AC reinforcements in Spain complement the cross border section, in order to connect the new converter station to the existing network. This project was included in the 2015 and 2017 PCI list (PCI 2.27.1)
+271;"""Northern Seas Offshore Grid infrastructure"" - a Long Term Conceptual Project";EirGrid, Elia System Operator, Energinet.dk, Creos Luxembourg, National Grid, RTE,TenneT TSO GmbH, SONI, Statnett, TenneT TSO B.V.;"A list of individual projects of the TYNDP projects will develop into a global scheme for Offshore Grid Infrastructure in the Northern Seas. 
+The individual projects will be described one by one on individual project sheets."
+276;FR-ES project -Navarra-Landes;"REE;RTE";This Project consist of a new HVDC interconnection between France and Spain in the Western part of the Pyrenees between Pamplona area  (Spain) and Cantegrit (France). The project is considered as a HVDC project of 2x1000 MW. Internal reinforcements complement the cross border section. This project was included in the 2015 and 2017 PCI list (PCI 2.27.2)
+280;FR-BE III: study Lonny-Achene-Gramme;"ELIA; RTE";"The project aims at sustaining further market integration within the long-term perspective of the energy transition and subsequent need to develop interconnection capacity on the French-Belgium border whilst alleviating Lonny-Achene-Gramme as bottleneck.
+
+The reinforcement strategy consists of maximizing the potential of the 400kV interconnector Lonny-Achene-Gramme (1 circuit) through the use of cost-efficient technologies such as PSTs and HTLS as well as the possibility to rebuild Lonny-Achene-Gramme as a 2-circuit solution. The bilateral study will determine the appropriate implementation option and phasing of this implementation (for example: first install a PST, then upgrade the line capacity), taking into account 1) the interaction between the 400kV interconnectors Avelin-Avelgem-Horta & Lonny-Achene-Gramme in optimizing interconnection capacity  2) the required time to implement the solution  3) that by 2025 Lonny-Achene-Gramme is a structural bottleneck due to the planned nuclear phase out in Belgium"
+283;TuNur;TuNur Limited;"TuNur is aimed to connect to the European network a Concentrated Solar Power plant with storage to be located in Rejim Maatoug, Kebili, Tunisia, with an overall capacity exceeding 2000 MW. The connection point to the ENTSO-E network is located in Montalto di Castro, North of Rome, Italy. 
+The transmission project will comprise:
++/- 500 kV DC DC overhead line in Tunisia from the power plant to the shoring point, submarine cables from the Tunisian Northern coast to Montalto di Castro, 
+VSC HVDC converter stations at both terminal points, short 400 kV AC cables from the HVDC converter in Montalto to Terna 400 kV station. 
+No sea electrode is forecast."
+284;LEG1;GreenPower 2020;"LEG1 is a Subsea HVDC Interconnection cable project of minimum 2 000 MW allowing for an electricity exchange between Europe and the South-Eastern Mediterranean Countries. The bidirectional interconnector will link Libya (Tobruk) to Greece (Linoperamata, Crete).
+
+LEG1 also comprises the development and operation of a solar power generation plant in Tobrouk. The pilot plant, currently sized at 150 MW, will identify the optimal technological combination to be implemented in the two (2) full-scale power generation plant, 1 000 MW each.
+Both landing points have been discussed and agreed with GECOL (General Electricity Company of Libya) and ADMIE (Hellenic TSO).
+
+LEG1 is currently being evaluated by both Hellenic and Bulgarian authorities to envisage a clustering with an existing Greece-Bulgaria interconnection project.
+
+GreenPower2020 and ADMIE are coordinating their efforts to allow for simultaneous commissioning of LEG1 and of the HVDC Crete to Greece mainland interconnector."
+285;GridLink;iCON Infrastructure LLP;"UK (KIngsnorth sub-station) - France (Warande sub-station) 1.4 GW HVDC (VSC) electricity interconnector
+
+Connection points (substations name): Kingsnorth (UK) to Warande (France)
+Type of conductor: copper/aluminium (stranded or keystone, Mass Impregnated or Cross-Linked Polyethylene)
+Type of converters (VSC/LCC): Voltage Source Converter (VSC)
+Nominal voltage: ±525 kV
+Capacity: 1,400 MW
+km to each border if the infrastructure is a tie-line: Not applicable (cable length is 160 km from sub-station to sub-station, comprising 112 km in UK territory and 48 km in French territory)
+Thermal limit (Imax): 1330 A
+Mvar capability range at terminals: 460 MVAr
+Bus-bar to bus-bar losses profile over MW range: 2.5% (33 MW) full load; 0% (0 MW) at zero load
+Expected yearly unavailability, differentiating between planned and forced outages, and the maximum single failure according to the design: 2% planned outages (98% availability); 0% forced outages; maximum single failure according to the design: 1400MW
+In case of projects other than in the “under consideration” phase the list and features of the internal reinforcements required to connect the project in the transmission network based on the affected TSO analysis: None 
+Main environmental impact: operational reduction of 1.6m tCO2 emissions per year from transmission of renewable and nuclear power; construction environmental effects during subsea cable installation"
+286;Greenlink;Element Power;"""An interconnector link between Ireland and Wales.
+Using subsea and onshore underground cables.
+Connecting EirGrid and National Grid networks / systems.
+Utilising high voltage direct current subsea and onshore cable. """
+293;Southern Aegean Interconnector;Kykladika Meltemia SA;"The project refers to the construction of a submarine DC transmission link to connect the licensed RES plants at the South Aegean Sea to mainland Greece and the islands of Crete, Kos and the Dodecanese. The main link will be an HVDC link connecting the island of Levitha to both the metropolitan area of Athens and the island of Crete; the 400kV substation at Lavrion area will
+be the connection point in the Athens area and Korakia will be the connection point in Crete (located in the north coast).
+Both links will consist of two parallel cables in order to increase the reliability of each link; two converter stations are
+foreseen in Levitha and relevant converter stations in Lavrion and Korakia. Illustrative routing of the links is shown in the
+attached Entso-e map. The capacity of each link will be 600 to 800MW both directions using HVDC (High Voltage Direct Current) technology. VSA conversion technology in conjunction with plastic (XLPE) cables will be used.
+The licensed  RES projects consist of wind and solar power plants located on 23 small uninhabited islands. The link will be
+used for transmitting electricity from the RES plants mentioned above to the mainland and the island of Crete. More
+specifically, the power produced in each island will be transferred to the island of Levitha where the main conversion
+station will be built acting as a hub.
+These connections (with the other islands) will be AC submarine cables (150 kV or 220 kV). 
+
+The connection to Crete gives further possibilities for power transmission to Cyprus and further to Israel through the
+""EuroAsia Interconnector"" (already accepted as a PCI by the E.C.). It is also possible to further extend this link to the main
+islands of the Dodecanese complex (namely Kos, Leros, Kalymnos, Nisyros, Tilos) in order to allow the supply of these
+islands and at the same time the supply of a  complex of other smaller islands already connected to the main ones. This is
+a short link (10km to 15km long) and more likely it will be an AC one.
+
+All the installations on  the islands (converter  stations, substations etc) will be of closed type using GIS technology.
+The project increases the transfer capacity between Mainland Greece and Crete-Kos Islands and further on to Cyprus
+(through EuroAsia Interconnector). The project will provide the system with 1.9 TWh/year wind energy.
+o	 List of studies carried out so far for the project;
+§	1. Wind measurements (completed)
+§	2. Wind potential evaluation on the islands (completed)
+§	3. Digital representation of each island terrain/relief  (completed)
+§	4. Orthophoto/Photomapping (completed)
+§	5. Topographic drawings (completed)
+§	6. Road Works preliminary design (completed)
+§	7. Ports preliminary design (completed)
+§	8. Desktop study of the cable route between Lavrio and Levitha  (completed)
+§	9. Desktop study of the cable route between Levitha and Crete (ongoing)
+§	10. Single Line electrical drawings (competed) 
+§	11. Preliminary layout of underground cables. (completed)
+§	12. Enviromental impact assessment (completed)"
+293;Southern Aegean Interconnector;Kykladika Meltemia SA;"The project refers to the construction of a submarine DC transmission link to connect the licensed RES plants at the South Aegean Sea to mainland Greece and the islands of Crete, Kos and the Dodecanese. The main link will be an HVDC link connecting the island of Levitha to both the metropolitan area of Athens and the island of Crete; the 400kV substation at Lavrion area will
+be the connection point in the Athens area and Korakia will be the connection point in Crete (located in the north coast).
+Both links will consist of two parallel cables in order to increase the reliability of each link; two converter stations are
+foreseen in Levitha and relevant converter stations in Lavrion and Korakia. Illustrative routing of the links is shown in the
+attached Entso-e map. The capacity of each link will be 600 to 800MW both directions using HVDC (High Voltage Direct Current) technology. VSA conversion technology in conjunction with plastic (XLPE) cables will be used.
+The licensed  RES projects consist of wind and solar power plants located on 23 small uninhabited islands. The link will be
+used for transmitting electricity from the RES plants mentioned above to the mainland and the island of Crete. More
+specifically, the power produced in each island will be transferred to the island of Levitha where the main conversion
+station will be built acting as a hub.
+These connections (with the other islands) will be AC submarine cables (150 kV or 220 kV). 
+
+The connection to Crete gives further possibilities for power transmission to Cyprus and further to Israel through the
+""EuroAsia Interconnector"" (already accepted as a PCI by the E.C.). It is also possible to further extend this link to the main
+islands of the Dodecanese complex (namely Kos, Leros, Kalymnos, Nisyros, Tilos) in order to allow the supply of these
+islands and at the same time the supply of a  complex of other smaller islands already connected to the main ones. This is
+a short link (10km to 15km long) and more likely it will be an AC one.
+
+All the installations on  the islands (converter  stations, substations etc) will be of closed type using GIS technology.
+The project increases the transfer capacity between Mainland Greece and Crete-Kos Islands and further on to Cyprus
+(through EuroAsia Interconnector). The project will provide the system with 1.9 TWh/year wind energy.
+o	 List of studies carried out so far for the project;
+§	1. Wind measurements (completed)
+§	2. Wind potential evaluation on the islands (completed)
+§	3. Digital representation of each island terrain/relief  (completed)
+§	4. Orthophoto/Photomapping (completed)
+§	5. Topographic drawings (completed)
+§	6. Road Works preliminary design (completed)
+§	7. Ports preliminary design (completed)
+§	8. Desktop study of the cable route between Lavrio and Levitha  (completed)
+§	9. Desktop study of the cable route between Levitha and Crete (ongoing)
+§	10. Single Line electrical drawings (competed) 
+§	11. Preliminary layout of underground cables. (completed)
+§	12. Enviromental impact assessment (completed)"
+294;Maali;Element Power;An interconnector link between Shetland Scotland UK and Norway. Using subsea and onshore underground cables. Connecting Statnett and National Grid networks / systems. Utilising high voltage direct current subsea and onshore  cable.
+297;BRABO II + III;ELIA;Realization of a new 380 kV corridor between Zandvliet and Mercator consisting of a double-circuit AC overhead line, including a new substation 380kV in Lillo.
+299;SACOI3;"Terna; EDF";New HVDC line between Italy mainland, Corsica and Sardinia replacing existing link SACOI2
+309;NeuConnect;Meridiam, Greenage Power, Frontier Power.;NeuConnect will be the first subsea HVDC electricity interconnector to connect the GB and German electricity markets.  It will be approximately 680km long with a capacity of 1.4GW.
+312;St. Peter - Tauern (AT internal);APG;St. Peter - Tauern
+313;Isar/Altheim/Ottenhofen (DE) - St.Peter (AT);"TenneT-DE; APG";New 380kV Line between TenneT-DE and APG (Isar/Altheim/Ottenhofen - St. Peter). This project reinforces the interconnection capacity between Austria and Germany. It supports the interaction of RES in Northern Europe (mainly in Germany) and in the eastern part of Austria with the pump storages in the Austrian Alps and therewith facilitates their utilisation.
+316;Upgrade of 220 kV line Bericevo-Divaca to 400 kV;ELES;Upgrade of existing 220 kV OHL Bericevo-Divaca to 400 kV voltage level (approximate length 80 km).
+317;Upgrade of 220 kV line Podlog-Bericevo to 400 kV;ELES;Upgrade of existing internal 220 kV OHL Podlog-Beričevo to 400 kV voltage level (approximate length 63 km).
+318;Upgrade of 220 kV line Podlog-Cirkovce to 400 kV;ELES;Upgrade of existing internal 220 kV OHL Podlog-Cirkovce to 400 kV voltage level (approximate length 50km).
+320;Slovenia-Hungary/Croatia interconnection;"ELES; MAVIR; HOPS";The project consists of a new 80 km double circuit AC 400 kV overhead line Cirkovce-Pince and a new 400 kV Cirkovce substation (Slovenia) by which a new connection to one circuit of the existing double circuit interconnection line between Hungary and Croatia will be established.
+321;Herbertingen - Tiengen;Amprion;reinforcements of 380 kV lines between Herbertingen and Tiengen
+322;Wullenstetten - Border Area (DE-AT);Amprion, VUEN;-
+323;Dekani (SI) - Zaule (IT) interconnection;Adria Link Srl, E3 d.o.o., HSE d.o.o..;The Zaule (IT) - Dekani (SI) interconnection is a third party cross-border electrical line promoted by Adria Link Srl, E3 d.o.o. and HSE d.o.o..  The project concerns an underground cable 110kV a.c. merchant line, 150 MW from Zaule (IT) substation to Dekani (SI) substation, including a 110/135 kV Phase Shifter Transformer.
+324;Redipuglia (IT) - Vrtojba (SI) interconnection;Adria Link Srl, E3 d.o.o., HSE d.o.o..;The Redipuglia (IT) - Vrtojba (SI) interconnection is a third party cross-border electrical line promoted by Adria Link Srl, E3 d.o.o. and HSE d.o.o..  The project concerns an underground cable 110kV a.c. merchant line, 150 MW from Redipuglia (IT) substation to Vrtojba (SI) substation, including a 110/135 kV Phase Shifter Trasformer.
+325;AT, SI, IT - South-East Alps Project;"APG; TERNA; ELES";- Obersielach - Podlog (AT-SI)
+;;;- Lienz - Italy (AT - IT)
+;;;- Lienz - Obersielach
+328;Interconnector DE-LUX;Amprion, Creos Luxembourg;The project comprises the construction of two new 380-kV-substations in Germany (Aach) and Luxemburg (Bofferdange). The new substations will be connected via a new AC-link to allow a higher cross border capacity between Germany and Luxembourg.
+329;Stevin-Izegem/Avelgem (Kustlus): new corridor;ELIA;"The development of ~6 GW transport capacity through the elaboration of a new corridor in the western part of Belgium, between the Stevin axis and the Izegem/Avelgem substation. Should the corridor end in Izegem, it is to be complemented with an HTLS upgrade of the existing Izegem-Avelgem connection. Along this corridor a substation functioning as 'gateway' for the evacution of offshore potential (see for example project 120) is envisioned. This corridor is envisioned to be implemented in AC technology as per the example of the Stevin project. 
+
+Timing, routing, scope, etc. subject to feasibility studies and subsequent spatial planning procedures."
+330;4th 400kV CZ-SK interconnector;CEPS,SEPS;This new 400 kV cross-border overhead line between the substations Otrokovice (CZ) - Ladce (SK) will strenghten the transmission capacity between Slovak and Czech transmission systems, aiming to maintain secure operation of both transmission systems.
+;;;
+333;PST Foretaille;Swissgrid;Installation of two PSTs in Foretaille that control the flow on the Foretaille - Verbois 220 kV double line
+335;North Sea Wind Power Hub;TenneT-NL, Energinet, TenneT-DE;"This project is a building block in this modular hub-and-spoke concept connecting up to 12 GW future offshore wind Projects to the systems of Denmark, the Netherlands and Germany after 2035. On the offshore hub, interconnection capacity between these countries is created by connecting the transport capacity between the hub and countries in a ""copper plate"" type installation.
+
+TenneT Netherlands, TenneT Germany, Energinet and Gasunie joined forces to develop a large scale European electricity system for offshore wind in the North Sea. The North Sea Wind Power Hub (NSWPH) consortium partners consider the project to be an important possible alternative path of internationally coordinated roll-out towards accomplishing the green energy transition and achieving the Paris Agreement. By developing the North Sea Wind Power Hub project, the NSWPH consortium endeavours to make the energy transition both feasible and affordable.
+
+Central to the vision is the construction of one or more hubs at a suitable location in the North Sea with interconnectors to bordering North Sea countries. The whole system may function as a hub for transport of wind energy, an interconnection hub to the connected countries, a working hub for offshore wind developers and a location for possible Power to Gas solutions. As such the NSWPH infrastructure offers benefits by optimizing integration costs of offshore wind, increasing socio-economic welfare by further integrating energy markets, supporting security of supply at wider regional level, and providing potential for innovative power-to-gas concepts to optimize system energy costs."
+336;Prati (IT) – Steinach (AT);"Terna; Tinetz";"New Italy-Austria tie-line between the existing 110kV Steinach substation in Austria and 132 kV Brennero substation, including PST; and connection to 132 kV Prati di Vizze substation."
+337;Conneforde-Merzen;"Amprion; TenneT-DE";The project consists of a new 380-kV overhead line between Merzen and Cloppenburg. North Germany is characterised by a high amount of RES, the feed-in exceeds the local load and therefore there is a high demand for transfer to the load centres in western and southern parts of Germany. With the further installation of additional offshore wind energy, the relevance of this projects increases.
+338;Adriatic HVDC link;TERNA;new HVDC line between Villanova and Fano existing 400 kV substations
+339;Italian HVDC tri-terminal link;;Italian HVDC tri-terminal link
+340;Avelgem-Center: new corridor;ELIA;"The development of ~6 GW transport capacity through the elaboration of a new corridor between the Avelgem substation and the center of the Belgium (substation to be determined along the axis Bruegel-Courcelles). This corridor is envisioned to be implemented in AC technology as per the example of the Stevin project. 
+
+Timing, routing, scope, etc. subject to feasibility studies and subsequent spatial planning procedures."
+341;North CSE Corridor;EMS, Transelectrica;This project will consists of three investments. The investments of this project are SS 400/110 Belgrade West, OHL 400 kV SS Belgrade West - WPP Cibuk and doubling existing OHL 400 kV Portile de Fier (RO) - Resica (RS). All investment from this project has significance cross-border impact on border between Romania and Serbia.
+342;Central Balkan Corridor;EMS, ESO;This corridor will enable transmission energy from east to west on the border between Bulgaria and Serbia. It consists of several investments from SS Sofia West on the east to SS Bajina Basta. On that way this corridor will be directly connected with project Transbalkan corridor.
+343;CSE1 New;HOPS, NOS BIH;The project will contribute in strengthen Croatian transmission grid along its main north-south axis (in parallel with eastern Adriatic coast) allowing for additional long-distance power transfers (including cross border) from existing and new planned power plants (RES/wind/ and conventional/hydro and thermal/) in Croatia (coastal parts) and BiH to major consumption areas in Italy (through Slovenia) and north Croatia. The increased transfer capacity will support market integration (particularly between Croatia and Bosnia-Herzegovina) by improving security of supply (also for emergency situations), achieving higher diversity of supply&generation sources and routes, increasing resilience and flexibility of the transmission network
+344;Reinforcements Ring NL phase II;TENNET-NL;Upgrade of existing 380kV circuits from 2,5 kA to 4 kA
+345;Northern East-West connection NL;TENNET-NL;New double circuit 380 kV connection between the North East and Western part of the Netherlands.
+346;ZuidWest380 NL;TENNET-NL;New 380 kV connection between Borssele and Tilburg, including new 380 kV substations Rilland and Tilburg.
+347;Maasvlakte – Noord Brabant connection NL;TENNET-NL;New double circuit 380 kV connection between the Maasvlakte and Noord-Brabant area within the Netherlands
+348;NoordWest380 NL;TENNET-NL;Upgrade of existing 220kV circuits between Eemshaven and Vierverlaten to 2* 380kV – 2645MVA circuits
+350;South Balkan Corridor;MEPSO;"Тhis project consists of three investments: one 400 kV OHL Bitola(MK)- Elbasan(AL), and two 400 kV SS Ohrid and Kumanovo, in Macedonia. 
+The interconnection contributes to increasing the transmission capacity in the East-West direction.
+Мentioned two SS-s  will increase the security of supply in the SouthWest part of the FYR of Macedonia.
+Construction of 400 kV OHTL interconnection from SS Bitola 2 to Macedonian/Albanian border and SS 400/110 kV Ohrid
+400 kV interconnection transmission line Bitola (Macedonia) - Elbasan (Albania) is the last part of the implementation of the Corridor 8 in the context of creating a corridor East-West power transmission corridor between Bulgaria, Macedonia, Albania and Italy."
+351;Eastern HVDC Link;"NGET; SHETL";A new ~2GW submarine HVDC cable route from Peterhead to Hawthorn Pit with associated AC network reinforcement works at both ends
+375;Lienz (AT) - Veneto region (IT) 220 kV;"TERNA; APG";Reconstruction of the existing 220kV-interconnection line between Lienz and Veneto Region (IT)
+376;Refurbishment of the 400kV Meliti(GR)-Bitola(MK) interconnector;MEPSO(MK), IPTO(GR);The project aims at the reconductoring of the already existing 400kV interconnector between Meliti(GR) and Bitola(MK), in order to increase transfer capacity of the interconnector.
+377;Upgrade BE-NL interconnector VanEyck-Maasbracht;Elia, TENNET-NL;"This study envisions an upgrade of the existing interconnector VanEyck-Maasbracht between Belgium and the Netherlands making use of PSTs and/or HTLS technology.
+
+The study will determine the appropriate implementation option and timing, taking into account
+- The already planned upgrade of  the Zandvliet-Rilland interconnector on the BE-NL border (see project 262)
+- The synchronisation with project study to upgrade interconnection DE-NL, also currently under consideration (see project 256)"
+378;Transformer Gatica;REE;New tranformer 400/220 kV in existing Gatica subestation, with potential impact in cross border values
+379;Uprate Gatica lines;REE;Uprate of the following 400kV lines that reach Gatica subestation : Gatica-Gueñes, Gatica-Amorebieta-Ichaso and Gatica-Azpeitia, with potential impact in cross border values
