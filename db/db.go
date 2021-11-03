@@ -27,11 +27,11 @@ func Connect() *pg.DB {
 	CreateTechnologyTable(db)
 	CreateTypeTable(db)
 
-	// closeErr := db.Close()
-	// if closeErr != nil {
-	// 	log.Printf("Error while closing the connection, Reason: %v\n", closeErr)
-	// 	os.Exit(100)
-	// }
-	// log.Printf("Connection closed successfully. \n")
+	closeErr := db.Close()
+	if closeErr != nil {
+		log.Printf("Error while closing the connection, Reason: %v\n", closeErr)
+		os.Exit(100)
+	}
+	log.Printf("Connection closed successfully. \n")
 	return db
 }

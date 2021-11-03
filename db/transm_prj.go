@@ -8,29 +8,29 @@ import (
 )
 
 type Project struct {
-	ProjectID   string `sql:"ProjectID, unique"`
+	ProjectID   string `sql:"ProjectID, pk"`
 	Promoter    string `sql:"promoter"`
 	ProjectName string `sql:"ProjectName, unique"`
 }
 
 type Investment struct {
-	InvestmentID string `sql:"InvestmentID, unique"`
+	InvestmentID string `sql:"InvestmentID, pk"`
 	Name         string `sql:"Name"`
 }
 
 type Status struct {
-	InvestmentID string `sql:"InvestmentID, unique"`
-	StatusID     string `sql:"StatusID, unique"`
+	InvestmentID string `sql:"InvestmentID, pk"`
+	StatusID     string `sql:"StatusID"`
 	ExpectedYear string `sql:"ExpectedYear"`
 }
 
 type StatusType struct {
-	StatusID string `sql:"StatusID, unique"`
-	Name     string `sql:"Name"`
+	StatusID string `sql:"StatusID, pk"`
+	Name     string `sql:"Name, unique"`
 }
 
 type FromTo struct {
-	InvestmentID string `sql:"InvestmentID, unique"`
+	InvestmentID string `sql:"InvestmentID, pk"`
 	FromCity     string `sql:"FromCity"`
 	ToCity       string `sql:"ToCity"`
 	FromTSO      string `sql:"FromTSO"`
@@ -38,24 +38,25 @@ type FromTo struct {
 }
 
 type Country struct {
-	InvestmentID string `sql:"InvestmentID, unique"`
+	InvestmentID string `sql:"InvestmentID, pk"`
 	Country1     string `sql:"Country1"`
 	Country2     string `sql:"Country2"`
 	Country3     string `sql:"Country3"`
 }
 
 type Technology struct {
-	InvestmentID string `sql:"InvestmentID, unique"`
-	TypeID       string `sql:"TypeID, unique"`
+	InvestmentID string `sql:"InvestmentID, pk"`
+	TypeID       string `sql:"TypeID"`
 	Voltage      string `sql:"Voltage"`
 }
 
 type Type struct {
-	TypeID      string `sql:"TypeID, unique"`
+	TypeID      string `sql:"TypeID, pk"`
 	TypeName    string `sql:"TypeName"`
-	ElementType string `sql:"ElementType, unique"`
+	ElementType string `sql:"ElementType"`
 }
 
+// Insert new Item to DB
 func (pi *Project) Save(db *pg.DB) error {
 	_, insertErr := db.Model(pi).Insert()
 	if insertErr != nil {
@@ -66,6 +67,7 @@ func (pi *Project) Save(db *pg.DB) error {
 	return nil
 }
 
+// Insert new Item and show value
 func (pi *Project) SaveAndReturn(db *pg.DB) (Project, error) {
 	InsertResult, insertErr := db.Model(pi).Returning("*").Insert()
 	if insertErr != nil {
@@ -77,7 +79,7 @@ func (pi *Project) SaveAndReturn(db *pg.DB) (Project, error) {
 	return *pi, nil
 }
 
-//Used for building the different Tables
+// Used for building the different Tables
 func CreateProjectTable(db *pg.DB) error {
 	opts := &orm.CreateTableOptions{
 		IfNotExists: true,
