@@ -1,0 +1,336 @@
+Investment ID;From;To;Tso In Charge From;Tso In Charge To
+2;Pedralva (PT);Sobrado (PT);REN;REN
+4;V.Minho (by Ribeira de Pena and Fridão);Feira (by Ribeira de Pena and Fridão);REN;REN
+474;Ribeira de Pena (PT);NULL;REN;NULL
+941;Fridão;NULL;REN;NULL
+18;Beariz (ES);Fontefria (ES);REE;REE
+496;Fontefria (ES);Vila Nova de FamalicÆo (PT) (By Ponte de Lima);REE;REN
+498;Fontefria (ES);REE;REE;REE
+499;Beariz (ES);Beariz (ES);REE;REE
+500;Ponte de Lima (PT);Ponte de Lima (PT);REN;REN
+31;Caparacena (ES);La Ribina (ES);REE;REE
+569;Baza (ES);Baza (ES);REE;REE
+570;La Ribina (ES);La Ribina (ES);REE;REE
+38;Gatica (ES);Cubnezais (FR);REE;RTE
+55;Grande Ile (FR);Piossasco (IT);RTE;TERNA
+60;Avelin/Mastaing (FR);Horta (BE);RTE;ELIA
+62;Tourbe (FR);Chilling (GB);RTE;NGIHL
+614;Nauders (AT);Glorenza (IT);APG;Terna
+70;Villanova (IT);Lastva (ME);TERNA;CGES
+624;Lastva (ME);NULL;CGES;N/A
+1503;Villanova (IT);Lastva (ME);Terna;CGES
+635;Sicily Area (IT);Tunisia node;TERNA;STEG
+642;All'Acqua (CH);Pallanzeno(IT)-Baggio(IT);SWISSGRID;TERNA
+90;Calenzano (IT);Colunga (IT);TERNA;TERNA
+1041;Villanova (IT);S. Barbara (IT);TERNA;TERNA
+311;Kocin (CZ);NULL;CEPS;CEPS
+313;Kocin (CZ);Mirovka (CZ);CEPS;CEPS
+315;Kocin (CZ);Prestice (CZ);CEPS;CEPS
+141;Ishøj / Bjæverskov (DK);Bentwisch (DE);Energinet.dk;50Hertz Transmission GmbH
+142;Tonstad (NO);Wilster (DE);Statnett;TenneT-DE
+406;(Southern part of Norway) (NO);(Southern part of Norway)(NO);Statnett;Statnett
+144;Audorf (DE);Kassoe (DK);TenneT-DE;Energinet.dk
+650;Aubange (TBC);LUX-DE (TBC);ELIA;"CREOS; AMPRION"
+219;Westtirol (AT);Zell-Ziller (AT);APG;APG
+689;Vöhringen (DE);Westtirol (AT);Amprion;APG
+696;Sajóivánka (HU);NULL;MAVIR;N/A
+697;Sajóivánka (HU);NULL;MAVIR;N/A
+1500;Gabcikovo (SK);Gonyu (HU);SEPS;MAVIR
+1501;Rimavska Sobota (SK);Sajoivanka (HU);SEPS;MAVIR
+386;Kilingi-Nomme (EE);Riga CHP2 (LV);Elering;AST
+735;Harku (EE);Sindi (EE);Elering;Elering
+1062;Riga CHP2;Riga HPP;AST;AST
+427;Endrup (DK);Eemshaven (NL);Energinet;TENNET-NL
+443;Richborough (GB);Gezelle (BE);NGET;ELIA
+449;Richborough (GB);Canterbury (GB);NGET;NGET
+450;Sellindge (GB);Dungeness (GB);NGET;NGET
+752;Offshore platform;Stevin (Zeebrugge);ELIA;ELIA
+452;Hunterston (GB);Deeside (GB);SPT;NGET
+458;Hinkley Point (GB);Seabank (GB);NGET;NGET
+462;Woodland (IE);Turleenan (NI);EirGrid;SONI
+463;Srananagh (IE);New substation in South Donegal (IE);EirGrid;EirGrid
+896;South Donegal (IE);Omagh South (NI);EirGrid;SONI
+897;Omagh South;Turleenan;SONI;SONI
+779;F. Alentejo (by Ourique);Tavira (by Ourique);REN;REN
+780;Ourique (PT);NULL;REN;NULL
+146;Oberzier (DE);Lixhe (BE);AMPRION;ELIA
+139;Vierraden (DE);Krajnik (PL);50Hertz;PSE S.A.
+796;Krajnik (PL);Krajnik (PL);PSE S.A.;PSE S.A.
+1492;Mikulowa (PL);Mikulowa (PL);PSE;PSE
+1493;Vierraden (DE);Vierraden (DE);50Hertz;50Hertz
+801;Keminmaa (FI);Pyhanselka (FI);Fingrid;Fingrid
+1488;Diemen;Ens;TENNET-NL;TENNET-NL
+1490;Ens;Zwolle;TENNET-NL;TENNET-NL
+1539;Krimpen;Geertruidenberg;TENNET-NL;TENNET-NL
+1540;Eindhoven;Maasbracht;TENNET-NL;TENNET-NL
+1560;Beverwijk;Bleiswijk;TENNET-NL;TENNET-NL
+810;West Wexford or East Cork (IE);La Martyre (FR);EIRGRID;RTE
+424;Kvilldal (NO);Blythe (GB);Statnett;NHIGL
+396;Keminmaa (Finland);Messaure (Sweden, bidding area SE1);Fingrid;Svenska kraftnät
+145;Niederrhein (DE);Doetinchem (NL);AMPRION;TENNET-NL
+1625;Offshore (TBD);Onshore (TBD);Elia;Elia
+934;Leiston (UK);TBD (BE);NGHIL;ELIA
+373;Ostroleka (PL);Stanislawow (PL);PSE;PSE
+378;Panevezys;Musa;LITGRID;LITGRID
+385;Grobina (LV);Imanta (LV);AST;AST
+733;Ekhyddan (SE);Nybro/Hemsjo (SE);Svk;Svk
+403;SE2;SE3;Svk;Svk
+86;Foggia (IT);Villanova (IT);TERNA;TERNA
+96;Deliceto (IT);Bisaccia (IT);TERNA;TERNA
+645;Laino (IT);Altomonte (IT);TERNA;TERNA
+665;Wolmirstedt (DE);Isar (DE);50Hertz;TenneT DE
+661;Emden East (DE);Osterath (DE);Amprion;Amprion
+176;Daxlanden (DE);Eichstetten (DE);TransnetBW;TransnetBW
+680;Urberach (DE);Daxlanden (DE);Amprion;TransnetBW
+179;Rommerskirchen (DE);Weißenthurm (DE);Amprion;Amprion
+188;Kruckel (DE);Dauersberg (DE);Amprion;Amprion
+273;Cernavoda (RO);Stalpu (RO);Transelectrica;Transelectrica
+275;Smardan (RO);Gutinas (RO);Transelectrica;Transelectrica
+715;Stalpu (RO);Stalpu (RO);Transelectrica;Transelectrica
+800;Varna(BG);Burgas(BG);ESO-EAD;ESO-EAD
+256;Maritsa East 1 (BG);N.Santa (GR);ESO-EAD;IPTO-SA
+257;Maritsa East 1 (BG);Plovdiv (BG);ESO-EAD;ESO-EAD
+258;Maritsa East 1 (BG);Maritsa East 3 (BG);ESO-EAD;ESO-EAD
+262;Maritsa East 1 (BG);Burgas (BG);ESO-EAD;ESO-EAD
+238;Resita (RO);Pancevo (RS);Transelectrica;EMS
+269;Portile de Fier (RO);Resita (RO);Transelectrica;Transelectrica
+270;Resita (RO);Timisoara-Sacalaz-Arad (RO);Transelectrica;Transelectrica
+701;Resita (RO);Resita (RO);Transelectrica;Transelectrica
+705;Timisoara (RO);Timisoara (RO);Transelectrica;Transelectrica
+616;Salgareda (IT);Border IT-SI;TERNA;ELES
+1616;Beričevo (SI);Border IT-SI;ELES;TERNA
+987;Menuel (FR);Exeter (GB);RTE (FR);NGIHL (UK)
+149;Dollern (DE);Stade (DE);TenneT-DE;TenneT-DE
+157;Wahle (DE);Mecklar (DE);TenneT-DE;TenneT-DE
+677;Dollern (DE);Landesbergen (DE);TenneT-DE;TenneT-DE
+685;Mecklar (DE);Grafenrheinfeld (DE);TenneT-DE;TenneT-DE
+998;Revsing (DKW);Bicker Fen (GB);Energinet.dk;National Grid
+382;Vilnius;Neris;LITGRID;LITGRID
+1004;Sindi;Paide;ELERING;ELERING
+1010;Tartu;Valmiera;Elering;AST
+1011;Tsirguliina;Valmiera;Elering;AST
+1012;Balti;Tartu;ELERING;ELERING
+1013;Viru;Tsirguliina ;ELERING;ELERING
+1034;Marijampole;State border;LITGRID;LITGRID
+1118;Eesti 330 kV;NULL;"LITGRID; AST; ELERING";NULL
+1564;Pagegiai;Bitenai;LITGRID;LITGRID
+1565;LE;Vilnius;LITGRID;LITGRID
+1566;NULL;NULL;LITGRID;LITGRID
+1567;Griskonys;Valkininkai;LITGRID;NULL
+1568;Alytus;NULL;LITGRID;NULL
+1569;Alytus;NULL;LITGRID;NULL
+1570;Bitenai;NULL;LITGRID;NULL
+1571;NULL;NULL;LITGRID;NULL
+1572;NULL;NULL;"LITGRID; AST; ELERING";NULL
+1632;Musa;NULL;NULL;NULL
+1633;Klaipeda;Bitenai;LITGRID;NULL
+1634;Bitenai;Jurbarkas;LITGRID;NULL
+1635;Jurbarkas;KHAE;LITGRID;NULL
+1487;Sellindge (UK);Mandarins (FR);NG;RTE
+1281;Aubange (BE);Moulaine (FR);ELIA;RTE
+1014;Verderio;Sils i.D.;Terna;Swissgrid
+1000;Malling (DKW);Kyndby (DKE);Energinet;Energinet
+995;Hurva (SE4);Gue;Svk;50Hertz
+1016;Bjæverskov (DK2);Bentwisch (DE);Energinet.dk;50Hertz
+1018;Klixbüll (DE);Endrup (DKW);TenneT-DE;Energinet.dk
+886;Seyring;Neusiedl/Zaya;APG;APG
+997;Pleinting (DE);St. Peter (AT);TenneT-DE;APG
+1382;Sima;Peterhead;Statnett;National Grid   (SSEN is TO)
+656;Cluster BorWin3;Emden/East (DE);TenneT-DE;TenneT-DE
+952;Cluster DolWin 5 (NOR-1-1);Emden/East (DE);TenneT-DE;TenneT-DE
+953;Cluster DolWin 6 (NOR-3-3);Emden/East;TenneT-DE;TenneT-DE
+1513;Cluster DolWin3 (DE);Dörpen/West (DE);TenneT-DE;TenneT-DE
+659;Cluster SylWin2 (DE);B;TenneT-DE;TenneT-DE
+954;Cluster BorWin 5 (NOR-7-1);area of Cloppenburg/East;TenneT-DE;TenneT-DE
+211;Cluster DolWin 4 (NOR 3-2);Hanekenfähr;Amprion;Amprion
+1485;Cluster BorWin 6 (NOR-7-2);Hanekenfähr;Amprion;Amprion
+927;La Plana/Morella;Godelleta;REE;REE
+561;Cartuja (ES);Cartuja (ES);REE;REE
+929;Cartuja;Arcos;REE;REE
+742;Pyhanselka (FI);Petajavesi (FI);Fingrid;Fingrid
+1051;Cornier (FR);La Bâtiaz (CH);RTE;SWISSGRID
+306;Vitkov (CZ);NULL;CEPS;N/A
+308;Vernerov (CZ);Vitkov (CZ);CEPS;CEPS
+309;Vitkov (CZ);Prestice (CZ);CEPS;CEPS
+312;Mirovka (CZ);NULL;CEPS;N/A
+314;Mirovka (CZ);V413 (CZ);CEPS;CEPS
+538;Morella  (ES);La Plana(ES);REE;REE
+682;Großgartach (DE);Endersbach (DE);TransnetBW;TransnetBW
+687;Redwitz (DE);Schwandorf (DE);TenneT-DE;TenneT-DE
+688;Raitersaich (DE);Altheim (DE);TenneT-DE;TenneT-DE
+990;Grafenrheinfeld (DE);Großgartach (DE);TenneT-DE;TransnetBW
+676;Dollern (DE);Elsfleht/West (DE);TenneT-DE;TenneT-DE
+939;Conneforde;Emden/Ost;TenneT-DE;TenneT-DE
+940;Emden/Ost;Halbemond;TenneT-DE;TenneT-DE
+150;Conneforde (DE);Wilhelmshaven (DE);TenneT-DE;TenneT-DE
+151;Wehrendorf (DE);Ganderkesee (DE);TenneT-DE;Amprion
+156;Niederrhein (DE);Dörpen/West (DE);Amprion;TenneT-DE
+935;Kreis Segeberg;Göhl/Siems;TenneT-DE;TenneT-DE
+1380;SOMPLAGO;WURMLACH;TERNA SPA;Austrian Power Grid AG
+1082;NULL;NULL;NULL;NULL
+1407;Hadera Site;Kofinou Site;IEC;TSO Cyprus
+1409;Kofinou Site;Korakia (Crete)Site;TSO Cyprus;ADMHE
+1410;Korakia (Crete)Site;Athens Site;ADMHE;ADMHE
+1107;to be defined (BE);to be defined (DE);ELIA;AMPRION
+627;Bajina Basta (RS);Visegrad (BA);EMS;NOSBIH
+628;SS Bajina Basta (RS);SS Obrenovac (RS);EMS;EMS
+630;Bajina Basta (RS);Pljevlja (ME);EMS;CGES
+631;Bajina Basta (RS);Bajina Basta (RS);EMS;EMS
+1526;SS Lastva;SS Pljevlja;CGES;CGES
+1527;SS Kragujevac;SS Kraljevo;EMS;EMS
+1528;SS Kraljevo;SS Kraljevo;EMS;EMS
+1231;Muhlbach;Eichstetten;RTE;TransnetBW GmbH
+1270;Baczyna-Plewiska indentation;Zielona Góra;PSE S.A.;PSE S.A.
+1271;Zielona Góra;Baczyna-Plewiska indentation;PSE S.A.;PSE S.A.
+1272;Zielona Góra;NULL;PSE S.A.;NULL
+1273;Zielona Góra;Gubin;PSE S.A.;PSE S.A.
+1274;Gubin;NULL;PSE S.A.;NULL
+1275;Gubin (PL);Eisenhuettenstadt (DE);PSE S.A.;50Hertz
+353;Krajnik (PL);Baczyna (PL);PSE S.A.;PSE S.A.
+355;Mikułowa (PL);Świebodzice (PL);PSE S.A.;PSE S.A.
+1035;Baczyna;NULL;PSE S.A.;NULL
+1232;Baczyna;Plewiska;PSE S.A.;PSE S.A.
+1282;Beznau (CH);Tiengen (DE);Swissgrid;Amprion
+1457;Germany;Switzerland;TransnetBW;Swissgrid
+1235;NULL;NULL;REE;REE
+1236;Avedøre (DKE);Dunowo (PL);Energinet;PSE
+664;"""Brunsbü";"""Großgartach, Grafenrheinfeld""";TenneT-DE;TransnetBW
+608;Horta (BE);Mercator (BE);ELIA;ELIA
+1241;Hjalta (SE2);Tuovila (FI);SVK;FINGRID
+1460;Güstrow (DE);Wolmirstedt (DE);50Hertz;50Hertz
+1276;Dakovo;Tuzla;HOPS;NOS BIH
+1277;Dakovo;Gradacac;HOPS;NOS BIH
+1278;Dakovo;Dakovo;HOPS;HOPS
+1279;Dakovo;Razbojiste;HOPS;HOPS
+1530;SS Gradacac (BA);TPP Tuzla (BA);NOS BIH;NOS BIH
+1531;SS Gradacac (BA);SS Gradacac (BA);NOS BIH;NOS BIH
+194;OWF Cluster Baltic Sea East (DE);Lubmin (DE);50Hertz;50Hertz
+1269;Ernestinovo;Sombor;HOPS;EMS
+1245;Vigy (FR);Uchtelfangen (DE);Rte;Amprion
+1514;Vigy (FR);Uchtelfangen (DE);Rte;Amprion
+1246;Meeden [NL];Diele [DE];TENNET-NL;TENNET-DE
+1381;Lovedean (GB);Barnabos (FR);National Grid plc;Réseau de transport d'électricité
+1248;OWF Cluster Baltic Sea (DE);Lubmin (DE);50Hertz;50Hertz
+1613;OWF Cluster Baltic Sea (DE);Siedenbrünzow/Alt Telin/Bartow (DE);50Hertz;50Hertz
+1627;OWF Cluster Baltic Sea (DE);Sanitz/Dettmannsdorf;50Hertz;50Hertz
+1384;Castasegna;Mese;swissgrid;Terna
+147;Dollern (DE);Hamburg/Nord (DE);TenneT-DE;TenneT-DE
+148;Audorf (DE);Hamburg/Nord (DE);TenneT-DE;TenneT-DE
+1050;Van Eyck;Gramme;ELIA;ELIA
+1456;Massenhoven (BE);Van Eyck (BE);ELIA;ELIA
+1515;Gramme;Courcelles;ELIA;ELIA
+1516;Bruegel;Courcelles;ELIA;ELIA
+1517;Mercator;Bruegel;ELIA;ELIA
+1224;Creys(FR);Saint Vulbas (FR);RTE;RTE
+1225;Cornier (FR);Cornier (FR);RTE;RTE
+660;Osterath (DE);Philippsburg (DE);Amprion;TransnetBW
+1251;Muruarte;Ichaso;REE;REE
+1455;Castejon;Ichaso;REE;REE
+1252;to be defined (DE);to be defined (NL);Amprion;TENNET-NL
+1529;tbd;tbd;Amprion;TENNET-NL
+667;Brunsb;Klixbüll (DE);TenneT-DE;TenneT-DE
+1205;Józsa;Oradea;MAVIR;Transelectrica
+1255;TBD;TBD;National Grid;TENNET-NL
+1257;Zandvliet (BE);Rilland (NL);ELIA;TENNET-NL
+1258;Rü;Mettlen & Bonaduz;Swissgrid;Swissgrid
+1583;Rüthi;Border area (DE-AT);Swissgrid;VUEN
+1259;Beznau;Mettlen;Swissgrid;Swissgrid
+1284;Pradella;La Punt;Swissgrid;Swissgrid
+1287;Bassecourt;Mü;Swissgrid;Swissgrid
+1288;Mettlen;Ulrichen;Swissgrid;Swissgrid
+1290;Magadino;Ulrichen;Swissgrid;Swissgrid
+1261;Bickigen;Chamoson;Swissgrid;Swissgrid
+1285;Magadino;Magadino;Swissgrid;Swissgrid
+1286;Chippis;Lavorgo;Swissgrid;Swissgrid
+1262;Hurva (SE4);Gue;Svenska Kraftnat;50Hertz
+1228;D.Rodrigo;Aljarafe;REE;REE
+1229;Aljarafe;Santiponce;REE;REE
+1211;Aragon region;Marsillon;REE;RTE
+1212;Ejea de los Caballeros;Aragon region;REE;REE
+1214;Ejea de los Caballeros;Ejea de los Caballeros;REE;REE
+1215;Aragon region;Aragon region;REE;REE
+1206;Pamplona area;Cantegrit;REE;RTE
+1207;Cantegrit;Saucats;RTE;RTE
+1208;Cantegrit;Marsillon;RTE;RTE
+1210;Pamplona area;Pamplona area;REE;REE
+1008;Lonny (FR);Gramme (BE);RTE;ELIA
+1378;Rejim Maatoug (TN) VSC HVDC - 400 kV AC +/- 500 kV DC – 2x 1GW;Montalto di Castro (IT) VSC HVDC - 400 kV AC +/- 500 kV DC – 2x 1GW;TuNur Limited;TuNur Limited
+1430;Montalto di Castro (IT) VSC HVDC - 400 kV AC +/- 500 kV DC – 2x 1GW;Montalto di Castro (IT) Terna station 400 kV AC;TuNur Limited;Terna
+1619;Tobrouk (Libya);Linoperamata (Greece, Crete);GECOL;ADMIE
+1383;Kingsnorth (UK);"""Warande (Gravelines, France)""";National Grid;RTE
+1385;Great Island;Pembroke;National Grid;EirGrid
+1637;NULL;NULL;Eirgrid;National Grid
+1431;LAVRIO;LEVITHA;yes;no
+1432;LEVITHA;KORAKIA CRETE;no;yes
+1433;Levitha;Syrna;no;no
+1434;KINAROS;LEVITHA;no;no
+1435;Kandeliousa;Syrna;no;no
+1436;Kandeliousa;Pergousa;no;no
+1356;Kergord Shetland;tba e.g. Mongstad, Kollsnes, Fana;NGT/Scottish Hydro;Statnett
+445;Zandvliet;Lillo - Liefkenshoek;ELIA;ELIA
+604;Liefkenshoek (BE);Mercator (BE);ELIA;ELIA
+605;Lillo (BE);Lillo (BE);ELIA;ELIA
+1458;Codrongianos - Lucciana;Suvereto ;TERNA - EDF;TERNA
+1628;Grain 400kV s/s Kent, England;Fedderwarden 380kV s/s Germany;National Grid;Tennet Germany
+1472;St. Peter;Tauern;APG;APG
+1473;Isar/Altheim/Ottenhofen (DE);St. Peter (AT);TenneT-DE;APG
+1617;Divaca;Bericevo;ELES;ELES
+1615;Podlog;Bericevo;ELES;ELES
+1614;Podlog;Cirkovce;ELES;ELES
+1558;Cirkovce (SI);Heviz (HU) \ Zerjavinec (HR);ELES;"MAVIR; HOPS"
+1475;Herbertingen;Tiengen;Amprion;Amprion
+1476;Wullenstetten (DE);Austrian National border (AT);Amprion;Amprion / VUEN
+1477;Herbertingen;Neuravensburg;Amprion;Amprion
+1478;DEKANI;ZAULE;ELES D.O.O.;TERNA SPA
+1482;REDIPUGLIA;VRTOJBA;TERNA SPA;ELES D.O.O.
+1483;Obersielach (AT);Podlog (SI);APG;ELES
+1631;Lienz;Veneto Region;Terna;APG
+1636;Lienz (AT);Obersielach (AT);APG;APG
+1620;N/A;N/A;Amprion;N/A
+1629;N/A;N/A;Creos Luxembourg;N/A
+1630;Aach (DE);Bofferdange (LU);Amprion;Creos Luxembourg
+1518;Stevin;Avelgem;ELIA;ELIA
+1498;Otrokovice (CZ);Ladce (SK);CEPS;SEPS
+1499;Ladce (SK);Ladce (SK);SEPS;SEPS
+1496;Foretaille;Foretaille;Swissgrid;Swissgrid
+1504;0;0;TenneT-NL, Energinet, TenneT-DE;TenneT-NL, Energinet, TenneT-DE
+1505;Endrup, DKw;Power Link Island DKw;Energinet;Energinet
+1506;Maasvlakte 380 kV;Power Link Island NL1;TenneT TSO NL;TenneT TSO NL
+1507;Eemshaven 380 kV;Power Link Island NL2;TenneT TSO NL;TenneT TSO NL
+1508;German substation located in the area of Brunsbüttel (north of the Elbe);Power Link Island DE1;TenneT-DE;TenneT-DE
+1509;German substation located in the area of Oldenburg;Power Link Island DE2;TenneT-DE;TenneT-DE
+1511;German substation located in the area of Krümmel;Power Link Island DE3;TenneT-DE;TenneT-DE
+1556;Prati di Vizze (IT);Steinach (AT);TERNA;TINETZ
+1510;Cloppenburg East (DE);Merzen (DE);TenneT-DE;Amprion
+1512;Conneforde (DE);Cloppenburg (DE);TenneT-DE;TenneT-DE
+1521;Villanova;Fano;Terna;Terna
+1557;SARDINIA REGION;SICILY REGION - CENTRAL SOUTH OF ITALY;TERNA;TERNA
+1519;Avelgem;Center (TBD);ELIA;ELIA
+1536;Portile de Fier;Djerdap;Transelectrica;EMS
+1537;Belgrade West;Belgrade West;EMS;EMS
+1538;WPP Cibuk;Belgrade West;EMS;EMS
+1520;SS Sofia West;SS Nis 2;ESO;EMS
+1522;SS Nis 2;SS Krusevac 1;EMS;EMS
+1523;SS Krusevac 1;SS Krusevac 1;EMS;EMS
+1524;SS Krusevac 1;SS Kraljevo 3;EMS;EMS
+1525;EMS;EMS;EMS;EMS
+1532;Banja Luka (BA);Lika (HR);NOS BIH;HOPS
+1533;Lika (HR);Melina (HR);HOPS;HOPS
+1534;Lika (HR);Konjsko (HR);HOPS;HOPS
+1535;Lika (HR);Lika (HR);HOPS;HOPS
+1541;Zwolle;Dodewaard;TENNET-NL;TENNET-NL
+1542;tbd;tbd;TENNET-NL;TENNET-NL
+1543;Borssele;Rilland;TENNET-NL;TENNET-NL
+1544;Rilland;Tilburg;TENNET-NL;TENNET-NL
+1545;Krimpen;Geertruidenberg;TENNET-NL;TENNET-NL
+1546;Eemshaven Oude Schip;Vierverlaten;TENNET-NL;TENNET-NL
+1622;Bitola;Elbasan;MEPSO;OST
+1623;NULL;NULL;MEPSO;NULL
+1547;Peterhead (GB);Hawthorn Pit (GB);SHETL;NGET
+1555;Lienz (AT);Veneto region (IT);APG;TERNA
+1559;Bitola (MK);Meliti (GR);MEPSO;IPTO
+1561;VanEyck;Maasbracht;Elia;TENNET-NL
+1584;Gatica 400;Gatica 220;REE;REE
+1593;Gatica;Guenes;REE;REE
+1595;Gatica;Ichaso;REE;REE
+1597;Gatica;Azpeitia;REE;REE
