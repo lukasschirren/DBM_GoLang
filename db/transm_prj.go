@@ -8,31 +8,32 @@ import (
 )
 
 type Project struct {
-	ProjectID   string `sql:"ProjectID, pk"`
+	ProjectID   int32  `sql:"ProjectID, pk"`
 	ProjectName string `sql:"ProjectName, unique"`
 	Promoter    string `sql:"promoter"`
+	Investments int16  `sql:"investments"`
 	Description string `sql:"Desription"`
 }
 
 type Investment struct {
-	InvestmentID string `sql:"InvestmentID, pk"`
-	ProjectID    string `sql:"ProjectID, unique"`
+	InvestmentID int32  `sql:"InvestmentID, pk"`
 	Name         string `sql:"Name"`
+	ProjectID    int32  `sql:"ProjectID, unique"`
 }
 
 type Status struct {
-	InvestmentID string `sql:"InvestmentID, pk"`
+	InvestmentID int32  `sql:"InvestmentID, pk"`
 	StatusID     string `sql:"StatusID"`
-	ExpectedYear string `sql:"ExpectedYear"`
+	ExpectedYear int32  `sql:"ExpectedYear"`
 }
 
 type StatusType struct {
-	StatusID string `sql:"StatusID, pk"`
+	StatusID int32  `sql:"StatusID, pk"`
 	Name     string `sql:"Name, unique"`
 }
 
 type FromTo struct {
-	InvestmentID string `sql:"InvestmentID, pk"`
+	InvestmentID int32  `sql:"InvestmentID, pk"`
 	FromCity     string `sql:"FromCity"`
 	ToCity       string `sql:"ToCity"`
 	FromTSO      string `sql:"FromTSO"`
@@ -40,20 +41,20 @@ type FromTo struct {
 }
 
 type Country struct {
-	InvestmentID string `sql:"InvestmentID, pk"`
+	InvestmentID int32  `sql:"InvestmentID, pk"`
 	Country1     string `sql:"Country1"`
 	Country2     string `sql:"Country2"`
 	Country3     string `sql:"Country3"`
 }
 
 type Technology struct {
-	InvestmentID string `sql:"InvestmentID, pk"`
-	TypeID       string `sql:"TypeID"`
-	Voltage      string `sql:"Voltage"`
+	InvestmentID int32 `sql:"InvestmentID, pk"`
+	TypeID       int32 `sql:"TypeID"`
+	Voltage      int32 `sql:"Voltage"`
 }
 
 type Type struct {
-	TypeID      string `sql:"TypeID, pk"`
+	TypeID      int32  `sql:"TypeID, pk"`
 	TypeName    string `sql:"TypeName"`
 	ElementType string `sql:"ElementType"`
 }

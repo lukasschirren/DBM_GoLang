@@ -19,13 +19,13 @@ func Connect() *pg.DB {
 	}
 	log.Printf("Connection to database successful.\n")
 	CreateProjectTable(db)
-	// CreateInvestmentTable(db)
-	// CreateStatusTable(db)
-	// CreateStatusTypeTable(db)
-	// CreateFromToTable(db)
-	// CreateCountryTable(db)
-	// CreateTechnologyTable(db)
-	// CreateTypeTable(db)
+	CreateInvestmentTable(db)
+	CreateStatusTable(db)
+	CreateStatusTypeTable(db)
+	CreateFromToTable(db)
+	CreateCountryTable(db)
+	CreateTechnologyTable(db)
+	CreateTypeTable(db)
 
 	closeErr := db.Close()
 	if closeErr != nil {
