@@ -9,8 +9,8 @@ import (
 
 type Project struct {
 	ProjectID   string `sql:"ProjectID, pk"`
-	Promoter    string `sql:"promoter"`
 	ProjectName string `sql:"ProjectName, unique"`
+	Promoter    string `sql:"promoter"`
 	Description string `sql:"Desription"`
 }
 
