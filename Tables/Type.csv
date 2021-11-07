@@ -1,4 +1,4 @@
-﻿StatusID;TypeName;Name
+﻿StatusID;TypeCurrent;Name
 0;NULL;No information
 1;AC;Compensation
 2;DC;LCC converter station

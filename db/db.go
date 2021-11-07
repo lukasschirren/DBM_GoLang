@@ -18,20 +18,20 @@ func Connect() *pg.DB {
 		os.Exit(100)
 	}
 	log.Printf("Connection to database successful.\n")
-	CreateProjectTable(db)
-	CreateInvestmentTable(db)
-	CreateStatusTable(db)
-	CreateStatusTypeTable(db)
-	CreateFromToTable(db)
-	CreateCountryTable(db)
-	CreateTechnologyTable(db)
+	// CreateProjectTable(db)
+	// CreateInvestmentTable(db)
+	// CreateStatusTable(db)
+	// CreateStatusTypeTable(db)
+	// CreateFromToTable(db)
+	// CreateCountryTable(db)
+	// CreateTechnologyTable(db)
 	CreateTypeTable(db)
 
-	closeErr := db.Close()
-	if closeErr != nil {
-		log.Printf("Error while closing the connection, Reason: %v\n", closeErr)
-		os.Exit(100)
-	}
-	log.Printf("Connection closed successfully. \n")
+	// closeErr := db.Close()
+	// if closeErr != nil {
+	// 	log.Printf("Error while closing the connection, Reason: %v\n", closeErr)
+	// 	os.Exit(100)
+	// }
+	// log.Printf("Connection closed successfully. \n")
 	return db
 }

@@ -55,7 +55,7 @@ type Technology struct {
 
 type Type struct {
 	TypeID      int32  `sql:"TypeID, pk"`
-	TypeName    string `sql:"TypeName"`
+	TypeName    string `sql:"CurrentType"`
 	ElementType string `sql:"ElementType"`
 }
 
