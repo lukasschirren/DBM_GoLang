@@ -1,0 +1,339 @@
+﻿Investment ID;Name;Project Id;ExpectedCommissioningYear
+2;Pedralva-Sobrado;1;2023
+4;V.Minho -R.Pena-Fridão-Feira;1;2024
+474;Substation Ribeira de Pena;1;2024
+941;Switching station Fridão;1;2026
+18;Beariz (ES) - Fontefria (ES);4;2021
+496;Fontefria (ES) - Vila Nova de FamalicÆo (PT);4;2021
+498;SE Fontefria 400/220kV ;4;2021
+499;Beariz 400kV  (ES);4;2021
+500;Ponte de Lima (PT);4;2020
+31;Axis Caparacena-Baza-La Ribina;13;2025
+569;New substation Baza;13;2025
+570;New substation La Ribina;13;2025
+38;HVDC Gatica-Cubnezais;16;2025
+55;Savoie - Pièmont;21;2019
+60;FR-BE I: Avelin/Mastaing-Avelgem-Horta HTLS;23;2022
+62;IFA2;25;2020
+614;Reschenpass Interconnector;26;2021
+70;First HVDC Module IT-ME;28;2019
+624;SS 400/110 kV Lastva;28;2019
+1503;Second HVDC Module IT-ME;28;2026
+635;Elmed Project;29;2025
+642;San Giacomo Project;31;2025
+90;90;33;2022
+1041;Rem. lim. in Central Italy;33;2022
+311;R Kocin;35;2024
+313;Kocin-Mirovka;35;2024
+315;Kocin-Prestice;35;2028
+141;Kriegers Flak CGS, TYNDP ID: 36.141;36;2019
+142;Norway - Germany HVDC;37;2020
+406;Western corridor;37;2020
+144;Audorf - Kassoe;39;2021
+650;BE-LUX-DE Long-Term perspective;40;2035
+219;219: Westtirol - Zell/Ziller (AT internal);47;2024
+689;689: Vöhringen (DE) - Westtirol (AT);47;2024
+696;Hunew 1;48;2020
+697;Hunew 2;48;2020
+1500;1. SK-HU interconnection;48;2020
+1501;2. SK-HU interconnection;48;2020
+386;3rd EE-LV interconnection;62;2020
+735;Harku-Sindi 330kV OHL;62;2021
+1062;Riga CHP2 - Riga HPP;62;2020
+427;COBRA Cable;71;2019
+443;NEMO;74;2019
+449;Richborough - Canterbury;74;2018
+450;SELL - DUNG Reconductoring;74;2019
+752;Modular Offshore Grid;75;2020
+452;Western HVDC Link;77;2017
+458;HINP-SEAB New Double Circuit;78;2024
+462;462;81;2020
+463;Srananagh - South Donegal;82;2029
+896;Omagh South to South Donegal;82;2029
+897;Omagh South to Turleenan;82;2029
+779;F.Alentejo-Ourique-Tavira;85;2024
+780;Extension of Ourique substation;85;2024
+146;ALEGrO;92;2020
+139;Krajnik-Vierraden;94;2021
+796;Krajnik;94;2019
+1492;PST in Mikulowa;94;2017
+1493;PST Vierraden;94;2019
+801;FI5 KI-PS;96;2024
+1488;Diemen-Lelystad-Ens;103;2020
+1490;Ens-Zwolle;103;2022
+1539;Krimpen-Geertruidenberg;103;2020
+1540;Eindhoven-Maasbracht;103;2023
+1560;Randstad380 noordring;103;2018
+810;France Ireland Interconnector;107;2026
+424;Norway - Great Britain;110;2021
+396;3rd AC Finland-Sweden north;111;2025
+145;Doetinchem-Niederrhein;113;2018
+1625;MOG II: connection of up to 2 GW additional offshore wind Belgium;120;2030
+934;Nautilus: 2nd interco UK - BE;121;2028
+373;Ostroleka-Stanislawow;123;2024
+378;330 kV OHL Panevezys-Musa;124;2023
+385;Grobina (LV) - Imanta (LV);124;2019
+733;Ekhyddan-Nybro-Hemsjo;124;2023
+403;Reinforcements SE2-SE3 in Sweden;126;2030
+86;86;127;2022
+96;96;127;2023
+645;ITA-3;127;2022
+665;Wolmirstedt;130;2025
+661;HVDC Line A-North;132;2025
+176;Daxlanden-Eichstetten;134;2021
+680;Urberach - Daxlanden;134;2023
+179;Rommerskirchen - Weißenthurm;135;2019
+188;Kruckel - Dauersberg;135;2021
+273;400kV OHL Cernavoda-Stalpu;138;2020
+275;400 kV OHL Smardan-Gutinas;138;2020
+715;220kV Stalpu substation upgrade to 400 kV;138;2020
+800;400 kV OHL Varna-Burgas;138;2021
+256;256;142;2023
+257;257;142;2021
+258;258;142;2019
+262;262;142;2021
+238;New_400 kV OHL RO-RS;144;2018
+269;400 kV OHL Portile de Fier-Resita;144;2019
+270;Upgrade of the existing 220kV double circuit OHL Resita -Timisoara - Sacalaz - Arad to 400kV double circuit line;144;2023
+701;400 kV Substation Resita;144;2019
+705;400 kV Substation Timisoara;144;2023
+616;Salgareda - Border IT-SI;150;2022
+1616;Beričevo - Border IT-SI;150;2022
+987;France-Alderney-Britain;153;2022
+149;Dollern - Stade;164;2021
+157;Wahle - Mecklar;164;2021
+677;Dollern - Landesbergen;164;2023
+685;Mecklar - Grafenrheinfeld;164;2027
+998;Viking Link DKW-GB, TYNDP ID 167.998;167;2023
+382;New 330 kV OHL Vilnius-Neris;170;2024
+1004;330kV OHL Paide-Sindi (L346);170;2025
+1010;330 kV OHL Tartu-Valmiera;170;2025
+1011;Valmiera -Tsirguliina 330 kV;170;2025
+1012;330 kV OHL Tartu-Balti (L300);170;2024
+1013;Viru-Tsirguliina 330kV OHL;170;2025
+1034;New 400 kV interconnection line from Lithuania to state border;170;2024
+1118;SVC and control upgrades;170;2024
+1564;New 110 kV OHL Pagegiai-Bitenai near LT-RU border;170;2019
+1565;Reconstruction of 330 kV OHL LE-Vilnius;170;2018
+1566;Reconstructions in North Eastern Lithuania;170;2021
+1567;Reinforcements of 110 kV lines near LT-BY border;170;2023
+1568;Construction of new 400/330 kV autotransformers in Alytus substation;170;2021
+1569;Rerouting of exicting HVDC converter in Alytus;170;2024
+1570;Construction of new HVDC converter in Bitenai;170;2024
+1571;New voltage control units (such as SVC) in LT;170;2023
+1572;Preparation works in Baltics: Baltic AGC system, frequency control monitoring system.;170;2024
+1632;New 330 kV Musa substation;170;2023
+1633;Reconstruction of 330 kV OHL Klaipeda - Bitenai;170;2024
+1634;Reconstruction of 330 kV OHL Bitėnai - Jurbarkas;170;2024
+1635;New 330 kV OHL Jurbarkas -  KHAE;170;2024
+1487;ElecLink;172;2019
+1281;Aubange-Moulaine: PSTs;173;2021
+1014;Greenconnector;174;2022
+1000;Great Belt II;175;2030
+995;Hansa PowerBridge I;176;2026
+1016;DKE-DE (Kontek 2);179;2030
+1018;DKW-DE, Westcoast, TYNDP ID 183.1018;183;2022
+886;east of Austria;186;2021
+997;St. Peter (AT) - Pleinting (DE);187;2024
+1382;NorthConnect;190;2023
+656;BorWin3;191;2019
+952;Cluster DolWin 5 (NOR 1-1);191;2024
+953;Cluster DolWin6;191;2023
+1513;DolWin3;191;2018
+659;SylWin2;192;2025
+954;Cluster BorWin 5 (NOR-7-1);192;2025
+211;DolWin 4 (NOR-3-2);381;2028
+1485;"BorWin 6
+(NOR-7-2)";381;2030
+927;La Plana/Morella-Godelleta;193;2025
+561;New substation Cartuja;194;2029
+929;Cartuja-Arcos 400 kV;194;2029
+742;Pyhanselka-Petajavesi;197;2022
+1051;Cornier - La Bâtiaz;199;2035
+306;R Vitkov;200;2023
+308;Vernerov-Vitkov;200;2025
+309;Vitkov-Prestice;200;2023
+312;R Mirovka;200;2026
+314;Mirkovka-V413;200;2019
+538;Morella-La Plana;203;2020
+682;Großgartach - Endersbach;206;2025
+687;Redwitz - Schwandorf;206;2023
+688;Raitersaich-Altheim;206;2026
+990;Grafenrheinfeld - Großgartach;206;2022
+676;Dollern - Elsfleth/West;207;2026
+939;Conneforde - Emden;207;2021
+940;Emden - Halbemond;207;2022
+150;Conneforde-Wilhelmshaven;208;2020
+151;Ganderkesee - Wehrendorf;208;2021
+156;Niederrhein-Dörpen;208;2021
+935;Kreis Segeberg - Siems;209;2022
+1380;Wurmlach (AT) - Somplago (IT) interconnection;210;2021
+1082;Interco Iceland-UK;214;2030
+1407;EuroAsia Interconnector;219;2020
+1409;EuroAsia Interconnector;219;2021
+1410;EuroAsia Interconnector;219;2020
+1107;2nd interconnecter between Belgium and Germany;225;2028
+627;400kV interconnection RS-BA;227;2024
+628;400kV OHL B.Basta-Obrenovac;227;2024
+630;400kV interconnection RS-ME;227;2024
+631;400kV SS B.Basta upgrade;227;2024
+1526;400 kV OHL Lastva - Pljevlja;227;2019
+1527;400 kV OHL Kragujevac-Kraljevo;227;2020
+1528;Upgrade of SS Kraljevo;227;2020
+1231;Muhlbach Eichstetten;228;2025
+1270;Baczyna-Zielona Góra;229;2030
+1271;Zielona Góra - Plewiska;229;2030
+1272;Zielona Góra;229;2030
+1273;Zielona Góra-Gubin;229;2030
+1274;Gubin;229;2030
+1275;Eisenhuettenstadt;229;2030
+353;Krajnik-Baczyna;230;2021
+355;Mikułowa - Świebodzice;230;2023
+1035;Baczyna;230;2020
+1232;Plewiska;230;2024
+1282;380 kV Grid Reinforcement Beznau - Tiengen;231;2030
+1457;Additional measures;231;2035
+1235;Conceptual project ;233;2027
+1236;DKE-PL-1;234;2030
+664;HVDC Line C;235;2025
+608;HTLS upgrade Horta-Mercator;236;2020
+1241;Fenno-Skan 1 renewal;239;2029
+1460;AC Enhancement Güstrow-Wolmirstedt;240;2021
+1276;Upgrading of existing  220 kV line between SS Dakovo (HR) and TPP Tuzla (BA) to 400 kV line;241;2033
+1277;Upgrading of existing  220 kV line between SS Dakovo (HR) and Gradacac (BA) to 400 kV line;241;2033
+1278;Upgrading existing 220 kV SS Dakovo to 400 kV;241;2033
+1279;New double 400 kV line between SS Dakovo and location Razbojiste;241;2033
+1530;Upgrading of existing  220 kV line between SS Gradacac (BA) and TPP Tuzla (BA) to 400 kV line;241;2032
+1531;Upgrading existing 220 kV SS Gradacac (BA) to 400 kV;241;2032
+194;Offshore Connection Cluster 1;242;2019
+1269;New 400 kV overhead line Sombor (RS) - Ernestinovo (HR);243;2035
+1245;Vigy - Uchtelfangen (or beyond);244;2027
+1514;Power flow control between Vigy - Uchtelfangen;244;2027
+1246;Upgrade Meeden - Diele;245;2019
+1381;AQUIND Interconnector;247;2022
+1248;AC Offshore Connection Cluster 1, 2,4;248;2022
+1613;DC Offshore Connection Cluster 1, 2, 4;248;2027
+1627;Offshore Connection Cluster 6;248;2029
+1384;"""Merchant line """"Castasegna (CH) - Mese (IT)""""""";250;2021
+147;Dollern - Hamburg/Nord;251;2018
+148;Audorf - Hamburg/Nord;251;2017
+1050;HTLS upgrade VanEyck-Gramme;252;2030
+1456;Massenhoven - Van Eyck: HTLS upgrade;252;2024
+1515;Gramme - Courcelles: HTLS upgrade;252;2033
+1516;Bruegel - Courcelles: HTLS upgrade;252;2035
+1517;Mercator - Bruegel: HTLS upgrade;252;2025
+1224;Uprate of Creys-St Vulbas;253;2031
+1225;PST in Cornier;253;2031
+660;HVDC Line A South - Ultranet;254;2022
+1251;New line 400 kV Muruarte-Ichaso;255;2023
+1455;New line 400 kV Castejon-Ichaso;255;2023
+1252;Long term upgrade interconnection DE-NL;256;2040
+1529;Upgrade interconnection DE-NL;256;2035
+667;Brunsbttel - Klixbüll;258;2019
+1205;HU-RO;259;2030
+1255;Interconnector GB-NL;260;2030
+1257;Belgium-Netherlands: Zandvliet-Rilland;262;2022
+1258;Rüthi - Bonaduz/Mettlen;263;2035
+1583;Vorarlberg;263;2035
+1259;Beznau - Mettlen;264;2025
+1284;Pradella - La Punt;264;2021
+1287;Bassecourt - Mühleberg;264;2025
+1288;Mettlen - Ulrichen;264;2030
+1290;Magadino - Ulrichen;265;2035
+1261;Bickigen - Chippis - Chamoson;266;2021
+1285;Magadino;266;2024
+1286;Chippis - Lavorgo;266;2024
+1262;Hansa PowerBridge II;267;2030
+1228;Uprate D.Rodrigo-Aljarafe;269;2019
+1229;Uprate Aljarafe-Santiponce;269;2019
+1211;HVDC Aragon region -Marsillon;270;2026
+1212;New axis Ejea-Aragon region 400 kV;270;2026
+1214;Ejea de los Caballeros subestation ;270;2025
+1215;Aragon region subestation;270;2025
+1264;Investments to be created;271;0
+1206;HVDC Pamplona area  -Cantegrit  ;276;2026
+1207;Upgrade Cantegrit-Saucats;276;2026
+1208;Upgrade Cantegrit-Marsillon ;276;2026
+1210;New substation Pamplona area;276;2026
+1008;Study Lonny-Achene-Gramme;280;2025
+1378;TuNur DC;283;2025
+1430;TuNur AC;283;2025
+1619;LEG1;284;2021
+1383;GridLink;285;2022
+1385;Greenlink;286;2023
+1637;New investment;286;0
+1431;Southern Aegean Interconnector;293;2024
+1432;Southern Aegean Interconnector;293;2026
+1433;Southern Aegean Interconnector;293;2025
+1434;Southern Aegean Interconnector;293;2024
+1435;Southern Aegean Interconnector;293;2025
+1436;Southern Aegean Interconnector;293;2025
+1356;Maali;294;2025
+445;BRABO II: Zandvliet - Lillo - Liefkenshoek;297;2021
+604;BRABO III: Liefkenshoek - Mercator;297;2023
+605;BRABO II: Lillo 380;297;2019
+1458;SACOI3;299;2023
+1628;NeuConnect Interconnector;309;2022
+1472;St. Peter - Tauern (AT internal);312;2022
+1473;Isar/Altheim/Ottenhofen - St. Peter;313;2021
+1617;Upgrade of 220 kV line Divaca-Bericevo to 400 kV;316;2030
+1615;Upgrade of internal 220 kV line Podlog-Bericevo to 400 kV;317;2035
+1614;Upgrade of 220 kV line Podlog-Cirkovce to 400 kV;318;2035
+1558;Double 400 kV OHL Cirkovce(SI)-Heviz(HU)/Zerjavinec(HR);320;2018
+1475;Herbertingen - Tiengen;321;2025
+1476;Wullenstetten - Border Area (DE-AT);322;2020
+1477;Herbertingen - Neuravensburg;322;2030
+1478;Dekani (SI) - Zaule (IT) interconnection;323;2020
+1482;Redipuglia (IT) - Vrtojba (SI) Interconnection;324;2020
+1483;Upgrade Obersielach (AT) - Podlog (SI);325;2035
+1631;Lienz - Italy (AT - IT);325;2035
+1636;Lienz - Obersielach;325;2026
+1620;Substation Aach;328;2025
+1629;Substation Bofferdange;328;2025
+1630;AC Overhead Line Aach-Bofferdange;328;2026
+1518;Stevin-Izegem/Avelgem: new corridor;329;2028
+1498;New CZ-SK 400 kV interconnector;330;2035
+1499;New 400 kV substation Ladce;330;2027
+1496;PST Foretaille;333;2031
+1504;Power Link Island;335;2035
+1505;Interconnection DKw to Power Link Island;335;2035
+1506;Interconnection NL Maasvlakte to Power Link Island;335;2035
+1507;Interconnection NL Eemshaven to Power Link Island;335;2035
+1508;Interconnection DE (area of Brunsbüttel) to Power Link Island;335;2035
+1509;Interconnection DE (area of Oldenburg) to Power Link Island;335;2035
+1511;Interconnection DE (area of Krümmel) to Power Link Island;335;2035
+1556;Prati (IT) – Steinach (AT);336;2019
+1510;Cloppenburg East - Merzen;337;2023
+1512;Conneforde - Cloppenburg;337;2023
+1521;New HVDC line between Villanova and Fano existing 400 kV substations;338;2027
+1557;Italian HVDC tri-terminal link;339;2027
+1519;Avelgem-Center: new corridor;340;2028
+1536;Portile de Fier (RO) - Djerdap (RS) 2nd;341;2030
+1537;New SS 400/110 kV Belgrade West;341;2030
+1538;New OHL 400 kV WPP Cibuk - SS Belgrade West;341;2030
+1520;Sofia West (BG) - Nis 2 (RS) 2nd;342;2034
+1522;Upgrade  of exsisting OHL 220 kV to 400 kV   SS Nis 2 - SS Kruševac 1;342;2034
+1523;Upgrading SS 220/110 kV Krusevac 1 to 400 kV;342;2034
+1524;Upgrading of exsisting OHL 220 kV to 400 kV  SS Krusevac 1 - SS Kraljevo 3;342;2034
+1525;Uprading exsisting OHL 220 kV to 400 kV  SS Kraljevo 3 - Vardiste;342;2033
+1532;New OHL 400 kV Banja Luka - Lika;343;2030
+1533;New OHL 400 kV Lika  – Melina;343;2030
+1534;New OHL 400 kV Lika  – Konjsko;343;2030
+1535;New Substation 400/110 kV Lika;343;2029
+1541;Zwolle-Hengelo-Doetinchem-Dodewaard;344;2035
+1542;Northern East-West connection NL;345;2040
+1543;ZuidWest380 West;346;2021
+1544;ZuidWest3808 Oost;346;2025
+1545;Maasvlakte – Noord Brabant connection;347;2040
+1546;NoordWest380;348;2021
+1622;400kV OHL SS Bitola - SS Elbasan;350;2020
+1623;400 kV SS Ohrid;350;2020
+1624;400 kV SS Kumanovo;350;2030
+1547;Eastern HVDC Link;351;2024
+1555;Lienz (AT) - Veneto region (IT);375;2024
+1559;New investment;376;2030
+1561;BE-NL interconnector: upgrade VanEyck-Maasbracht;377;2030
+1584;Transformer Gatica;378;2025
+1593;Uprate Gatica-Guenes;379;2025
+1595;Uprate Gatica-Amorebieta-Ichaso;379;0
+1597;Uprate Gatica-Azpeitia;379;2025
